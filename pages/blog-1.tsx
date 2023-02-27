@@ -6,6 +6,7 @@ import * as ph from "@plasmicapp/host";
 import { ScreenVariantProvider } from "../components/plasmic/copy_of_blog_lifehacksplus_com/PlasmicGlobalVariant__Screen";
 import { PlasmicDisposableCollection4 } from "../components/plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableCollection4";
 import { useRouter } from "next/router";
+import Script from 'next/script'
 
 function DisposableCollection4() {
   // Use PlasmicDisposableCollection4 to render this component as it was
@@ -34,4 +35,15 @@ function DisposableCollection4() {
   );
 }
 
-export default DisposableCollection4;
+export default DisposableCollection4() {
+  return (
+    <>
+    <script type="text/javascript">
+    document.querySelector('.klaviyo_form_trigger').addEventListener('click', function (){
+      window._klOnsite = window._klOnsite || [];
+      window._klOnsite.push(['openForm', 'RnfsUY']);
+    });
+  </script>
+    </>
+  )
+}
