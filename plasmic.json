@@ -1,0 +1,848 @@
+{
+  "platform": "nextjs",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+  },
+  "images": {
+    "scheme": "public-files",
+    "publicDir": "../public",
+    "publicUrlPrefix": "/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "nfSxZjVucxtfieS23UFsqy",
+      "projectApiToken": "yRgZPBF3wlzTf7uti1XqHaW9v4QXATTuHBFjD2sHbK3pjfiu0lKKr46FSXC5I5gK4FsPbrcZHpSuLk5FT7g",
+      "projectName": "Copy of blog.lifehacksplus.com",
+      "version": "latest",
+      "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/plasmic_copy_of_blog_lifehacksplus_com.module.css",
+      "components": [
+        {
+          "id": "adTFp5pzrGMS",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "nfSxZjVucxtfieS23UFsqy",
+          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicHomepage.tsx",
+          "importSpec": {
+            "modulePath": "../pages/home.tsx"
+          },
+          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "i2dw_YlG0JzBa",
+          "name": "TextInput",
+          "type": "managed",
+          "projectId": "nfSxZjVucxtfieS23UFsqy",
+          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicTextInput.tsx",
+          "importSpec": {
+            "modulePath": "TextInput.tsx"
+          },
+          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicTextInput.module.css",
+          "scheme": "blackbox",
+          "componentType": "component",
+          "plumeType": "text-input"
+        },
+        {
+          "id": "BvRJvRINBZCfW",
+          "name": "Button",
+          "type": "managed",
+          "projectId": "nfSxZjVucxtfieS23UFsqy",
+          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicButton.tsx",
+          "importSpec": {
+            "modulePath": "Button.tsx"
+          },
+          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicButton.module.css",
+          "scheme": "blackbox",
+          "componentType": "component",
+          "plumeType": "button"
+        },
+        {
+          "id": "lyffgFh8zzrDk",
+          "name": "ThankYou",
+          "type": "managed",
+          "projectId": "nfSxZjVucxtfieS23UFsqy",
+          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicThankYou.tsx",
+          "importSpec": {
+            "modulePath": "../pages/thank-you.tsx"
+          },
+          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicThankYou.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "VVH0m4IJoi7p0t",
+          "name": "DisposableCollection",
+          "type": "managed",
+          "projectId": "nfSxZjVucxtfieS23UFsqy",
+          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableCollection.tsx",
+          "importSpec": {
+            "modulePath": "../pages/disposable.tsx"
+          },
+          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableCollection.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "wKI0nlwt3ZT5yO",
+          "name": "DisposableCollection2",
+          "type": "managed",
+          "projectId": "nfSxZjVucxtfieS23UFsqy",
+          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableCollection2.tsx",
+          "importSpec": {
+            "modulePath": "../pages/disposable-2.tsx"
+          },
+          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableCollection2.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "u1uA-aeIoQvLjH",
+          "name": "DisposableCollection3",
+          "type": "managed",
+          "projectId": "nfSxZjVucxtfieS23UFsqy",
+          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableCollection3.tsx",
+          "importSpec": {
+            "modulePath": "../pages/index.tsx"
+          },
+          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableCollection3.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "ZtACbyoZIeOB0F",
+          "name": "DisposableInfo",
+          "type": "managed",
+          "projectId": "nfSxZjVucxtfieS23UFsqy",
+          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableInfo.tsx",
+          "importSpec": {
+            "modulePath": "../pages/disposable-info.tsx"
+          },
+          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableInfo.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "j_FPxDBLkN4XNg",
+          "name": "NewPage",
+          "type": "managed",
+          "projectId": "nfSxZjVucxtfieS23UFsqy",
+          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicNewPage.tsx",
+          "importSpec": {
+            "modulePath": "../pages/new-page.tsx"
+          },
+          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicNewPage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "NnubNq-fWNWlbtT",
+          "name": "NewPage2",
+          "type": "managed",
+          "projectId": "nfSxZjVucxtfieS23UFsqy",
+          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicNewPage2.tsx",
+          "importSpec": {
+            "modulePath": "../pages/new-page-2.tsx"
+          },
+          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicNewPage2.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "c_QmF5P6dvy14Px",
+          "name": "Reviews",
+          "type": "managed",
+          "projectId": "nfSxZjVucxtfieS23UFsqy",
+          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicReviews.tsx",
+          "importSpec": {
+            "modulePath": "Reviews.tsx"
+          },
+          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicReviews.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "pQTaPc4NQmA6IHD",
+          "name": "AsFeaturedIn",
+          "type": "managed",
+          "projectId": "nfSxZjVucxtfieS23UFsqy",
+          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicAsFeaturedIn.tsx",
+          "importSpec": {
+            "modulePath": "AsFeaturedIn.tsx"
+          },
+          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicAsFeaturedIn.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "c-kwCUG2omGSmuu",
+          "name": "NewPage22",
+          "type": "managed",
+          "projectId": "nfSxZjVucxtfieS23UFsqy",
+          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicNewPage22.tsx",
+          "importSpec": {
+            "modulePath": "../pages/new-page-3.tsx"
+          },
+          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicNewPage22.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "gy2erJa9TCe7Yo-",
+          "name": "Blog",
+          "type": "managed",
+          "projectId": "nfSxZjVucxtfieS23UFsqy",
+          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicBlog.tsx",
+          "importSpec": {
+            "modulePath": "../pages/new-page-4.tsx"
+          },
+          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicBlog.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "PkJ9xK8dLM-CAHB",
+          "name": "DualOffer",
+          "type": "managed",
+          "projectId": "nfSxZjVucxtfieS23UFsqy",
+          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDualOffer.tsx",
+          "importSpec": {
+            "modulePath": "../pages/dual-offer.tsx"
+          },
+          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDualOffer.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "eu-us2cDwaNn",
+          "name": "DisposableCollection4",
+          "type": "managed",
+          "projectId": "nfSxZjVucxtfieS23UFsqy",
+          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableCollection4.tsx",
+          "importSpec": {
+            "modulePath": "../pages/blog-1.tsx"
+          },
+          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableCollection4.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        }
+      ],
+      "icons": [
+        {
+          "id": "eSF-0RqcV4G6qhZ",
+          "name": "SearchsvgIcon",
+          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Searchsvg.tsx"
+        },
+        {
+          "id": "bhoFISTNxHeSPJp",
+          "name": "ChecksvgIcon",
+          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Checksvg.tsx"
+        },
+        {
+          "id": "zG2B6AAPlaJrheO",
+          "name": "IconIcon",
+          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Icon.tsx"
+        },
+        {
+          "id": "MtAp5_rjAWK6aiv",
+          "name": "FrameIcon",
+          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame.tsx"
+        },
+        {
+          "id": "AnzqGBkdi-adcC2",
+          "name": "Frame2Icon",
+          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame2.tsx"
+        },
+        {
+          "id": "bsr3RomwB43HQb4",
+          "name": "Frame3Icon",
+          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame3.tsx"
+        },
+        {
+          "id": "5E9faZ0BcCIW1Di",
+          "name": "Frame4Icon",
+          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame4.tsx"
+        },
+        {
+          "id": "qSwAyJdMxzptvfq",
+          "name": "Frame5Icon",
+          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame5.tsx"
+        },
+        {
+          "id": "jhqdEBFDb1MhCwS",
+          "name": "Frame6Icon",
+          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame6.tsx"
+        },
+        {
+          "id": "rGR2wngf9X4yt-J",
+          "name": "Frame7Icon",
+          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame7.tsx"
+        },
+        {
+          "id": "AU93K6bMzI17lDw",
+          "name": "Frame8Icon",
+          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame8.tsx"
+        },
+        {
+          "id": "T3HtrZQTe7r2OEj",
+          "name": "Frame9Icon",
+          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame9.tsx"
+        },
+        {
+          "id": "hkH3IVvRke3cXKQ",
+          "name": "Frame10Icon",
+          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame10.tsx"
+        },
+        {
+          "id": "x5aqxbdxfNtHMCH",
+          "name": "Frame11Icon",
+          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame11.tsx"
+        }
+      ],
+      "images": [
+        {
+          "id": "5nQKNyKQk3SvBoz",
+          "name": "Sparq_Logo_White.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sparqLogoWhitepng.png"
+        },
+        {
+          "id": "7DrbbY_0PzHiId1",
+          "name": "https___app.unbounce.com_publish_assets_4e7205ac-8938-11ed-b5b0-0242a3c829a5_3u3deu-sparq-black-logo_108c08c000000000000028.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/httpsAppunbouncecomPublishAssets4E7205Ac893811EdB5B00242A3C829A53U3DeuSparqBlackLogo108C08C000000000000028Png.png"
+        },
+        {
+          "id": "Pj-0M3Ap7UkRa8w",
+          "name": "LADYBAGUETTE2020IMG_3156-Edit 1.svg",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/ladybaguette2020Img3156Edit1Svg.bin"
+        },
+        {
+          "id": "zTDsKdonK5pBIk4",
+          "name": "LADYBAGUETTE2020IMG_3156-Edit.jpg",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/ladybaguette2020Img3156Editjpg.jpeg"
+        },
+        {
+          "id": "snfi6XWks2ARM0H",
+          "name": "e-mail_1f4e7.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/eMail1F4E7Png.png"
+        },
+        {
+          "id": "pf5K0Wsr_pbB994",
+          "name": "sparq-logo_125x.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sparqLogo125Xpng.png"
+        },
+        {
+          "id": "UidArNAnm7-gJCH",
+          "name": "footer-logo.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/footerLogopng.png"
+        },
+        {
+          "id": "GJg6f9eSCiXDWAl",
+          "name": "smoking_icon_ac8544ef-2a78-4a92-9740-ba3c7312e5c5_480x480.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/smokingIconAc8544Ef2A784A929740Ba3C7312E5C5480X480Png.png"
+        },
+        {
+          "id": "FXnKelweRBMyOG3",
+          "name": "beaker_icon_09efe31c-b2e4-4c7f-8a8f-f564e86fe6e1_480x480.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/beakerIcon09Efe31CB2E44C7F8A8FF564E86Fe6E1480X480Png.png"
+        },
+        {
+          "id": "O-MR59gTLdnhku8",
+          "name": "pills_icon_73726148-c05b-4727-9378-2519623fd4a0_480x480.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/pillsIcon73726148C05B472793782519623Fd4A0480X480Png.png"
+        },
+        {
+          "id": "b2OHWfNWAHC1YL4",
+          "name": "recycle_icon_1607fa06-3a4b-4d0b-a0a6-1cd803b18c85_480x480.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/recycleIcon1607Fa063A4B4D0BA0A61Cd803B18C85480X480Png.png"
+        },
+        {
+          "id": "DJKvc-H-D5vaqNh",
+          "name": "product-sec-ban-1.jpg",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/productSecBan1Jpg.png"
+        },
+        {
+          "id": "UNEhvmNrMMrfxM8",
+          "name": "Safety-Practices_480x480.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/safetyPractices480X480Png.png"
+        },
+        {
+          "id": "kcU42MkZH93F2kW",
+          "name": "Extensive_Scientific_Research_480x480.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/extensiveScientificResearch480X480Png.png"
+        },
+        {
+          "id": "rB0mTzce6WmkICx",
+          "name": "Environmentally-Responsible_480x480.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/environmentallyResponsible480X480Png.png"
+        },
+        {
+          "id": "ErtFvM1Wi3itmbO",
+          "name": "Giving-Back_480x480.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/givingBack480X480Png.png"
+        },
+        {
+          "id": "YS42xfqhbeu4pQi",
+          "name": "product-fuel_250x250@2x.jpg",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/productFuel250X2502Xjpg.png"
+        },
+        {
+          "id": "uPr8ET4296lA7M-",
+          "name": "product-pure_cca9dd58-d8da-49ac-b531-f6abd24468da_250x250@2x.jpg",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/productPureCca9Dd58D8Da49AcB531F6Abd24468Da250X2502Xjpg.png"
+        },
+        {
+          "id": "-XzMawBMOtO6Ru9",
+          "name": "product-melt_e5ee4b8c-b394-4dfa-969d-133320737857_250x250@2x.jpg",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/productMeltE5Ee4B8CB3944Dfa969D133320737857250X2502Xjpg.png"
+        },
+        {
+          "id": "aKcew3gnG3g660b",
+          "name": "product-variety_1c2e7bd9-ac9c-4989-bfad-811526dad7e0_250x250@2x.jpg",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/productVariety1C2E7Bd9Ac9C4989Bfad811526Dad7E0250X2502Xjpg.png"
+        },
+        {
+          "id": "MLiE8Le8a7OkeLg",
+          "name": "Packaging6Upright_09_FINAL-min_250x250@2x.jpg",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/packaging6Upright09FinalMin250X2502Xjpg.png"
+        },
+        {
+          "id": "NOohhX_YetN0qVK",
+          "name": "shopify-secure-badge-light-shadow.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/shopifySecureBadgeLightShadowpng.png"
+        },
+        {
+          "id": "5BXBHaDL3HDDXqa",
+          "name": "label 5",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/label5.png"
+        },
+        {
+          "id": "kXaOljcNFCKr5Dy",
+          "name": "label 2",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/label2.png"
+        },
+        {
+          "id": "zteVcY8zqPCRkOC",
+          "name": "label",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/label.png"
+        },
+        {
+          "id": "UA3OxMTMWSi3xIY",
+          "name": "label 4",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/label4.png"
+        },
+        {
+          "id": "tTGzEQwFl_QeMBS",
+          "name": "pills_icon_73726148-c05b-4727-9378-2519623fd4a0_480x480.png 2",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/pillsIcon73726148C05B472793782519623Fd4A0480X480Png2.png"
+        },
+        {
+          "id": "hsKpXsoWh7e7P0Q",
+          "name": "div",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/div.png"
+        },
+        {
+          "id": "m_CinHliilp3TCg",
+          "name": "5a18637b3a18271ae9cd636b_1_77c5b246-4f6c-4a1d-b6c8-5c4eb7fb4a85.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_5A18637B3A18271Ae9Cd636B177C5B2464F6C4A1DB6C85C4Eb7Fb4A85Png.png"
+        },
+        {
+          "id": "fxK6i8j4QJK4riD",
+          "name": "800px-Indiegogo_logo_87e824db-34f7-4415-9219-ab56dca36549.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_800PxIndiegogoLogo87E824Db34F744159219Ab56Dca36549Png.png"
+        },
+        {
+          "id": "4HvP2YQIYNpTwo8",
+          "name": "1200px-Scientific_American_logo.svg_9440dc46-eee2-4228-b6a5-e91e5b0c8581.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_1200PxScientificAmericanLogosvg9440Dc46Eee24228B6A5E91E5B0C8581Png.png"
+        },
+        {
+          "id": "ApCMNyZFB1tGoRE",
+          "name": "asfeaturedin4_9bda2aea-3ea9-4d3c-bd4f-7d2ad76ae608.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/asfeaturedin49Bda2Aea3Ea94D3CBd4F7D2Ad76Ae608Png.png"
+        },
+        {
+          "id": "Tt5ml0unUoMFQ63",
+          "name": "Entrepreneur_logo_484ccefe-4c85-4084-bc8c-12af7a590ec0.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/entrepreneurLogo484Ccefe4C854084Bc8C12Af7A590Ec0Png.png"
+        },
+        {
+          "id": "lFA8VBO5F_ZUc51",
+          "name": "confidencee_fdabb2f0-6360-4ed7-8f96-dc94bfa29f15.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/confidenceeFdabb2F063604Ed78F96Dc94Bfa29F15Png.png"
+        },
+        {
+          "id": "EuWzPYPfKS_1uc1",
+          "name": "promissory_700cba5a-b826-4b5c-8106-987450146e3b.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/promissory700Cba5AB8264B5C8106987450146E3Bpng.jpeg"
+        },
+        {
+          "id": "-8YsE2RIguCgoHh",
+          "name": "promissorylayer.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/promissorylayerpng.png"
+        },
+        {
+          "id": "rm_bUs3XdhKfFAY",
+          "name": "Group_8.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/group8Png.png"
+        },
+        {
+          "id": "e0pA9GhqFj2K1DA",
+          "name": "moneybackleft.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/moneybackleftpng.png"
+        },
+        {
+          "id": "7Ug1xSe9FqgNDxe",
+          "name": "moneybackright.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/moneybackrightpng.png"
+        },
+        {
+          "id": "GxQiUUVShJ8RxL5",
+          "name": "Sparq_Logo_Final-03_1_-removebg-preview_3b7bc87c-264b-43d3-8992-4155c29d48c3.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sparqLogoFinal031RemovebgPreview3B7Bc87C264B43D389924155C29D48C3Png.png"
+        },
+        {
+          "id": "a-2wDeaQGCQAdB0",
+          "name": "Sparq_box_animation_loop_shorter_version.gif",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sparqBoxAnimationLoopShorterVersiongif.png"
+        },
+        {
+          "id": "0ZsWiI8O37P7ylw",
+          "name": "leftarr.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/leftarrpng.png"
+        },
+        {
+          "id": "iz09ztpKmyYTBmL",
+          "name": "rightarr.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/rightarrpng.png"
+        },
+        {
+          "id": "Mlm7-vpYjltOEQn",
+          "name": "paymentlogo.png 2",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/paymentlogopng2.png"
+        },
+        {
+          "id": "EX-_GyzpaktUzUc",
+          "name": "Sparq_Logo_Final-03_1_1.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sparqLogoFinal0311Png.png"
+        },
+        {
+          "id": "dILUTTOuKomfMLD",
+          "name": "li",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/li.png"
+        },
+        {
+          "id": "W_Qv0uOFXQdq7uO",
+          "name": "paymentlogo.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/paymentlogopng.png"
+        },
+        {
+          "id": "tVBNbo1SeeDy3L0",
+          "name": "star.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/starpng.png"
+        },
+        {
+          "id": "ZymHjIsoE4b1tqG",
+          "name": "bannerrev_e286f026-53c5-463d-95e1-7d983a6a0996.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/bannerrevE286F02653C5463D95E17D983A6A0996Png.png"
+        },
+        {
+          "id": "FS6VPo6JdnTZrNr",
+          "name": "My_project.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/myProjectpng.png"
+        },
+        {
+          "id": "r3wTa7x-GvjNftL",
+          "name": "My_project-2.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/myProject2Png.png"
+        },
+        {
+          "id": "jIHn9ZvUtYvM3gJ",
+          "name": "My_project-5.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/myProject5Png.png"
+        },
+        {
+          "id": "SQSnC35y0oyK65H",
+          "name": "My_project-3.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/myProject3Png.png"
+        },
+        {
+          "id": "4WCOHH89SVnF_UJ",
+          "name": "My_project-7.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/myProject7Png.png"
+        },
+        {
+          "id": "jIFNUPLWRSR2Pl-",
+          "name": "My_project-6.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/myProject6Png.png"
+        },
+        {
+          "id": "N3oej1DdQXd4TWD",
+          "name": "My_project-4.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/myProject4Png.png"
+        },
+        {
+          "id": "07cURNxA0rGgx0B",
+          "name": "promissoryitem1_cb038f04-1a2b-4c5b-af99-95014e9df68f.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/promissoryitem1Cb038F041A2B4C5BAf9995014E9Df68Fpng.png"
+        },
+        {
+          "id": "tgCTASbpWcHOtrF",
+          "name": "promissoryitem2_d1cae334-b4ca-4e4f-8fba-fc3f796c4042.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/promissoryitem2D1Cae334B4Ca4E4F8FbaFc3F796C4042Png.png"
+        },
+        {
+          "id": "vNSTCjtMm27qeeF",
+          "name": "promissoryitem3_674784dc-9a84-4f5a-8b80-175ce3e3f7c3.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/promissoryitem3674784Dc9A844F5A8B80175Ce3E3F7C3Png.png"
+        },
+        {
+          "id": "U-rmJFwDF-RqaNk",
+          "name": "sidereview1.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sidereview1Png.png"
+        },
+        {
+          "id": "RGrOAzFjsMtLj0f",
+          "name": "sidereview2.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sidereview2Png.png"
+        },
+        {
+          "id": "uSNmVSo9CLS8B4t",
+          "name": "sidereview3.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sidereview3Png.png"
+        },
+        {
+          "id": "Rpdpfbhozoi1aK1",
+          "name": "3.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_3Png.png"
+        },
+        {
+          "id": "HyzzMuIgFnaNZEO",
+          "name": "6.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_6Png.png"
+        },
+        {
+          "id": "w7f8480EU-gVtFj",
+          "name": "getyourvitamin1.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/getyourvitamin1Png.png"
+        },
+        {
+          "id": "__jwv9j6H0mVsZc",
+          "name": "verify.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/verifypng.png"
+        },
+        {
+          "id": "C4Qq8i8WNBZV5DQ",
+          "name": "paymenticons.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/paymenticonspng.png"
+        },
+        {
+          "id": "j_Kcd4r3TBO8Frt",
+          "name": "hand.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/handpng.png"
+        },
+        {
+          "id": "9jBM3oR5z4T1zbz",
+          "name": "freeship.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/freeshippng.png"
+        },
+        {
+          "id": "Rvlu8Ci6KPrT5bU",
+          "name": "hand.svg",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/handsvg.bin"
+        },
+        {
+          "id": "vTqZl5PHQc19L3_",
+          "name": "hand.svg 2",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/handsvg2.bin"
+        },
+        {
+          "id": "9CcKB6FOWEw6bw7",
+          "name": "hand.svg 3",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/handsvg3.bin"
+        },
+        {
+          "id": "3CHLs4Htk8OogP4",
+          "name": "hand.svg 4",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/handsvg4.bin"
+        },
+        {
+          "id": "rysFnGLhXVVsSW7",
+          "name": "logo.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/logopng.png"
+        },
+        {
+          "id": "s1953A-9iHux4gD",
+          "name": "midbanner.jpg",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/midbannerjpg.jpeg"
+        },
+        {
+          "id": "WW-2xVJxDAkFF2K",
+          "name": "review.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/reviewpng.png"
+        },
+        {
+          "id": "2oHaD1NUgydSxH8",
+          "name": "fingericon.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/fingericonpng.png"
+        },
+        {
+          "id": "uYJDybGT90xTr_6",
+          "name": "star.png 2",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/starpng2.png"
+        },
+        {
+          "id": "_iIcuDyYyyXHPsY",
+          "name": "nw-brandlogo.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/nwBrandlogopng.png"
+        },
+        {
+          "id": "C1zs_Y05KL3oDUr",
+          "name": "li 2",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/li2.png"
+        },
+        {
+          "id": "6S-5sWMStte7zgp",
+          "name": "sidereview1.png 2",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sidereview1Png2.png"
+        },
+        {
+          "id": "ESUs1JOq6jev3Ni",
+          "name": "sidereview2.png 2",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sidereview2Png2.png"
+        },
+        {
+          "id": "RtHKWohh57Uem2T",
+          "name": "div 3",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/div3.jpeg"
+        },
+        {
+          "id": "LRYWM4wOoLutB1f",
+          "name": "sidereview3.png 2",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sidereview3Png2.png"
+        },
+        {
+          "id": "E06g9-qg4O_eDj7",
+          "name": "prodimage.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/prodimagepng.png"
+        },
+        {
+          "id": "hyDx3SL3JgQ_rYq",
+          "name": "tick.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/tickpng.png"
+        },
+        {
+          "id": "e2GMjZd_x9UeixC",
+          "name": "cross.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/crosspng.png"
+        },
+        {
+          "id": "hZjFp8lO0Bl6wef",
+          "name": "paymentcard.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/paymentcardpng.png"
+        },
+        {
+          "id": "s6yjmUEfA29EzYy",
+          "name": "div 2",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/div2.png"
+        },
+        {
+          "id": "I_8DEIp-OmVL4zc",
+          "name": "Screenshot 2023-02-24 at 4.34.42 PM.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/screenshot20230224At43442PMpng.png"
+        },
+        {
+          "id": "ac9f167gPGayqt8",
+          "name": "1b8bd693-image1_1000000000000000000028.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_1B8Bd693Image11000000000000000000028Png.png"
+        },
+        {
+          "id": "koNTYzMbV4zuQMs",
+          "name": "4b6e6ed1-device.gif",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_4B6E6Ed1Devicegif.gif"
+        },
+        {
+          "id": "v636BRJwo8nFVhd",
+          "name": "6bb5e2f0-image3_1000000000000000000028.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_6Bb5E2F0Image31000000000000000000028Png.png"
+        },
+        {
+          "id": "SIjct2gl9FSbxkT",
+          "name": "12a7a7bb-testing-smaller-image_10yy0fa000000000000028 (1).png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_12A7A7BbTestingSmallerImage10Yy0Fa0000000000000281Png.png"
+        },
+        {
+          "id": "zRYo7NqPdE0WDQ9",
+          "name": "7e469161-end_1000000000000000000028.png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_7E469161End1000000000000000000028Png.png"
+        },
+        {
+          "id": "u_e29WCJiFxBT86",
+          "name": "Divider.svg",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/dividersvg.bin"
+        },
+        {
+          "id": "EkeNREfjHlbtfm-",
+          "name": "9b498fb8-rechargable-gif-1 (1).gif",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_9B498Fb8RechargableGif11Gif.gif"
+        },
+        {
+          "id": "6SRZy5LTqlbEoh8",
+          "name": "fbfd287e-rechargable-gif-2 (1).gif",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/fbfd287ERechargableGif21Gif.gif"
+        },
+        {
+          "id": "Su0n_RL-UrusSXS",
+          "name": "7048e521-hit-1_1000000000000000000028 (1).png",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_7048E521Hit110000000000000000000281Png.png"
+        },
+        {
+          "id": "hINidC0EeI_9Hd5",
+          "name": "Silver Device - Outro.gif",
+          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/silverDeviceOutrogif.gif"
+        }
+      ],
+      "indirect": false,
+      "globalContextsFilePath": "",
+      "codeComponents": [
+        {
+          "id": "nIfPykcleZzxC",
+          "name": "PlasmicHead",
+          "componentImportPath": "@plasmicapp/react-web"
+        },
+        {
+          "id": "TGSOzzQ9M-qxt",
+          "name": "Fetcher",
+          "componentImportPath": "@plasmicapp/react-web/lib/data-sources"
+        }
+      ]
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "rpLZvrBoo_7pdKh",
+        "name": "Screen",
+        "projectId": "nfSxZjVucxtfieS23UFsqy",
+        "contextFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicGlobalVariant__Screen.tsx"
+      }
+    ]
+  },
+  "wrapPagesWithGlobalContexts": true,
+  "nextjsConfig": {
+    "pagesDir": "../pages"
+  },
+  "cliVersion": "0.1.216",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.216/dist/plasmic.schema.json"
+}

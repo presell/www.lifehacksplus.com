@@ -1,0 +1,5112 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+}
+.figmaPaste {
+  position: relative;
+  plasmic-display-none: true;
+  width: 1440px;
+  height: 7066px;
+  flex-shrink: 0;
+}
+@media (min-width: 768px) {
+  .figmaPaste {
+    display: block;
+  }
+}
+.div {
+  background: rgba(255, 205, 87, 1);
+  width: 1440px;
+  height: 60px;
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.div2 {
+  height: 60px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 20px;
+  right: 20px;
+}
+.label {
+  background: rgba(63, 58, 41, 1);
+  transform: translate(-0.09400000000005093px, 0px);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: 951px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 25.468px 20px 30px;
+}
+.text___9VPWq {
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 900;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.specialOfferClaimThisOneTimeOfferTryVitaminAirAtAFractionOfTheRegularPriceToday {
+  position: absolute;
+  top: 20px;
+  left: 100px;
+  width: 829px;
+  height: 22px;
+  transform: translate(-0.29699999999999704px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__idmNa {
+  display: block;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 22px;
+  color: rgba(63, 58, 41, 1);
+}
+.freeShipping {
+  position: absolute;
+  top: 20px;
+  left: 1168px;
+  width: 133px;
+  height: 22px;
+  transform: translate(0.015000000000100044px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__c4OrB {
+  display: block;
+  font-size: 22px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 22px;
+  color: rgba(63, 58, 41, 1);
+}
+.div3 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/div.png") 0px 0px / 1440px 723px no-repeat;
+  width: 1440px;
+  height: 724px;
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 60px;
+}
+.div4 {
+  height: 604px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 35px;
+  right: 720px;
+}
+.sparqLogoFinal031RemovebgPreview3B7Bc87C264B43D389924155C29D48C3Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/sparqLogoFinal031RemovebgPreview3B7Bc87C264B43D389924155C29D48C3Png.png") 0px 0px / 215px 38px no-repeat;
+  width: 215px;
+  height: 39px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.h1 {
+  width: 685px;
+  height: 209px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.vitaminAirIsTheOnly {
+  position: absolute;
+  top: 100px;
+  left: 0px;
+  width: 444px;
+  height: 50px;
+  transform: translate(0px, 0.4680000000000035px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___6HkwJ {
+  display: block;
+  font-size: 50px;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 55px;
+  color: rgba(63, 58, 41, 1);
+}
+.b {
+  transform: translate(0px, 0.4680000000000035px);
+  width: 618px;
+  height: 105px;
+  display: block;
+  position: absolute;
+  top: 100px;
+  left: 0px;
+}
+.effective {
+  display: block;
+  font-size: 50px;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 55px;
+  color: rgba(63, 58, 41, 1);
+  position: absolute;
+  top: -30px;
+  left: 443px;
+  transform: translate(-0.047000000000025466px, 0px);
+}
+.text__eMsN9 {
+  display: block;
+  font-size: 50px;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 55px;
+  color: rgba(63, 58, 41, 1);
+  position: absolute;
+  top: 52px;
+  left: 0px;
+}
+.youNeed {
+  position: absolute;
+  top: 155px;
+  left: 306px;
+  width: 207px;
+  height: 50px;
+  transform: translate(-0.18799999999998818px, 0.4679999999999893px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___8LUm {
+  display: block;
+  font-size: 50px;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 55px;
+  color: rgba(63, 58, 41, 1);
+}
+.ul {
+  transform: translate(0px, 0.4679999999999893px);
+  height: 200px;
+  display: block;
+  position: absolute;
+  top: 208px;
+  left: 0px;
+  right: 0px;
+}
+.li {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/li.png") 0px 13px / 20px 15px no-repeat;
+  width: 685px;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 20px;
+  left: 0px;
+}
+.reducesCravingsForNicFromTheFirstPuff {
+  position: absolute;
+  top: 9px;
+  left: 40px;
+  width: 365px;
+  height: 22px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__u4Vbz {
+  display: block;
+  font-size: 22px;
+  letter-spacing: 0em;
+  line-height: 40px;
+  color: rgba(63, 58, 41, 1);
+}
+.li2 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/li.png") 0px 13px / 20px 15px no-repeat;
+  width: 685px;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 60px;
+  left: 0px;
+}
+.providesAStrongAndLastingThroatHit {
+  position: absolute;
+  top: 9px;
+  left: 40px;
+  width: 336px;
+  height: 22px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__fgXKm {
+  display: block;
+  font-size: 22px;
+  letter-spacing: 0em;
+  line-height: 40px;
+  color: rgba(63, 58, 41, 1);
+}
+.li3 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/li.png") 0px 13px / 20px 15px no-repeat;
+  width: 685px;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 100px;
+  left: 0px;
+}
+.eachDeviceProvides300Puffs {
+  position: absolute;
+  top: 9px;
+  left: 40px;
+  width: 261px;
+  height: 22px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___61Gf8 {
+  display: block;
+  font-size: 22px;
+  letter-spacing: 0em;
+  line-height: 40px;
+  color: rgba(63, 58, 41, 1);
+}
+.li4 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/li.png") 0px 13px / 20px 15px no-repeat;
+  width: 685px;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 140px;
+  left: 0px;
+}
+._0NicLabTestedVitaminsRecyclable {
+  position: absolute;
+  top: 9px;
+  left: 40px;
+  width: 375px;
+  height: 22px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__yDjC {
+  display: block;
+  font-size: 22px;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 40px;
+  color: rgba(63, 58, 41, 1);
+}
+.vitaminAirIsJamPackedWithNaturalVitaminsAminoAcidsAndHealingHerbsToHelpYouQuitNicForGood {
+  position: absolute;
+  top: 413px;
+  left: 0px;
+  width: 564px;
+  height: 50px;
+  transform: translate(0px, 0.46800000000001774px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__l4VcJ {
+  display: block;
+  font-size: 20px;
+  letter-spacing: 0em;
+  line-height: 30px;
+}
+.div5 {
+  transform: translate(0px, 0.46800000000001774px);
+  height: 135px;
+  display: block;
+  position: absolute;
+  top: 468px;
+  left: 0px;
+  right: 0px;
+}
+.div6 {
+  height: 115px;
+  display: block;
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  right: 411px;
+}
+.p {
+  width: 274px;
+  height: 22px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.starpng {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/starpng.png") 0px 0px / 80px 14px no-repeat;
+  transform: translate(0.06199999999999939px, 0.32799999999999985px);
+  width: 80px;
+  height: 15px;
+  display: block;
+  position: absolute;
+  top: 3px;
+  left: 10px;
+}
+._485BasedOn1000Reviews {
+  position: absolute;
+  top: 3px;
+  left: 90px;
+  width: 175px;
+  height: 15px;
+  transform: translate(0.06199999999999761px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__ylkd1 {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 22px;
+  color: rgba(102, 102, 102, 1);
+}
+.a {
+  background: rgba(126, 192, 10, 1);
+  height: 51px;
+  display: block;
+  position: absolute;
+  top: 30px;
+  left: 0px;
+  right: 0px;
+  border-radius: 5px;
+}
+.getYoursNow {
+  position: absolute;
+  top: 16px;
+  left: 56px;
+  width: 128px;
+  height: 18px;
+  transform: translate(-0.26599999999999824px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__ghoEb {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 27px;
+  color: rgba(255, 255, 255, 1);
+}
+.handsvg {
+  transform: translate(0.26499999999998636px, 0.34299999999999997px);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 10px;
+  left: 193px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.img__b55Lp {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 25px;
+  height: 26px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none !important;
+}
+.img__b55Lp > picture > img {
+  object-fit: cover;
+}
+.img__b55Lp > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}
+@media (min-width: 768px) {
+  .img__b55Lp {
+    display: block !important;
+  }
+}
+.paymentlogopng {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/paymentlogopng.png") 0px 0px / 221px 21px no-repeat;
+  transform: translate(-0.5px, 0.09300000000000352px);
+  width: 221px;
+  height: 21px;
+  display: block;
+  position: absolute;
+  top: 94px;
+  left: 27px;
+}
+.div7 {
+  height: 107px;
+  display: block;
+  position: absolute;
+  top: 20px;
+  left: 274px;
+  right: 0px;
+}
+.bannerrevE286F02653C5463D95E17D983A6A0996Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/bannerrevE286F02653C5463D95E17D983A6A0996Png.png") 0px 0px / 70px 70px no-repeat;
+  transform: translate(0px, -0.5px);
+  width: 70px;
+  height: 70px;
+  display: block;
+  position: absolute;
+  top: 24px;
+  left: 30px;
+}
+.div8 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 10px;
+  left: 100px;
+  flex-direction: column;
+  padding-left: 15px;
+}
+.div8 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: calc(0px - 1px);
+  height: calc(100% + 1px);
+}
+.div8 > :global(.__wab_flex-container) > *,
+.div8 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.div8 > :global(.__wab_flex-container) > picture > img,
+.div8 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: 1px;
+}
+.text__z41Cx {
+  display: block;
+  font-size: 15px;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(102, 102, 102, 1);
+  position: relative;
+}
+.text__wh155 {
+  display: block;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(102, 102, 102, 1);
+  position: relative;
+}
+.ul2 {
+  width: 1400px;
+  height: 41px;
+  display: block;
+  position: absolute;
+  left: 20px;
+  top: 813px;
+}
+.asFeaturedIn {
+  position: absolute;
+  top: 8px;
+  left: 212px;
+  width: 109px;
+  height: 20px;
+  transform: translate(-0.03200000000001069px, -0.3440000000000003px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__xaUgW {
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 30px;
+  color: rgba(0, 0, 0, 1);
+}
+._5A18637B3A18271Ae9Cd636B177C5B2464F6C4A1Db6C85C4Eb7Fb4A85Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/_5A18637B3A18271Ae9Cd636B177C5B2464F6C4A1DB6C85C4Eb7Fb4A85Png.png") 0px 0px / 119px 40px no-repeat;
+  transform: translate(0.4370000000000118px, 0px);
+  width: 119px;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 382px;
+}
+._800PxIndiegogoLogo87E824Db34F744159219Ab56Dca36549Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/_800PxIndiegogoLogo87E824Db34F744159219Ab56Dca36549Png.png") 0px 0px / 75px 40px no-repeat;
+  transform: translate(-0.17200000000002547px, 0px);
+  width: 75px;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 564px;
+}
+._1200PxScientificAmericanLogosvg9440Dc46Eee24228B6A5E91E5B0C8581Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/_1200PxScientificAmericanLogosvg9440Dc46Eee24228B6A5E91E5B0C8581Png.png") 0px 0px / 145px 40px no-repeat;
+  transform: translate(0.04600000000004911px, 0px);
+  width: 145px;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 701px;
+}
+.asfeaturedin49Bda2Aea3Ea94D3CBd4F7D2Ad76Ae608Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/asfeaturedin49Bda2Aea3Ea94D3CBd4F7D2Ad76Ae608Png.png") 0px 0px / 111px 40px no-repeat;
+  transform: translate(0.26499999999998636px, 0px);
+  width: 112px;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 908px;
+}
+.entrepreneurLogo484Ccefe4C854084Bc8C12Af7A590Ec0Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/entrepreneurLogo484Ccefe4C854084Bc8C12Af7A590Ec0Png.png") 0px 0px / 106px 40px no-repeat;
+  transform: translate(0.32799999999997453px, 0px);
+  width: 106px;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 1082px;
+}
+.div9 {
+  background: linear-gradient(
+      180deg,
+      rgba(246, 246, 241, 1) 99%,
+      rgba(237, 237, 227, 1) 199%
+    )
+    0% 0% / 100% 100% no-repeat;
+  width: 1440px;
+  height: 642px;
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 884px;
+}
+.confidenceeFdabb2F063604Ed78F96Dc94Bfa29F15Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/confidenceeFdabb2F063604Ed78F96Dc94Bfa29F15Png.png") 0px 0px / 720px 642px no-repeat;
+  width: 720px;
+  height: 642px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.div10 {
+  transform: translate(0px, -0.125px);
+  height: 462px;
+  display: block;
+  position: absolute;
+  top: 90px;
+  left: 720px;
+  right: 0px;
+}
+.inhaleWithConfidence {
+  position: absolute;
+  top: 16px;
+  left: 216px;
+  width: 288px;
+  height: 18px;
+  transform: translate(0.125px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__fdX3J {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 4px;
+  line-height: 50px;
+  color: rgba(227, 166, 20, 1);
+}
+.h2 {
+  width: 720px;
+  height: 100px;
+  display: block;
+  position: absolute;
+  top: 50px;
+  left: 0px;
+}
+.useVitaminAir {
+  position: absolute;
+  top: 2px;
+  left: 226px;
+  width: 269px;
+  height: 45px;
+  transform: translate(-0.1570000000000107px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.useVitaminAir2 {
+  display: block;
+  font-size: 45px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 50px;
+  color: rgba(63, 58, 41, 1);
+}
+.inThreeEasySteps {
+  position: absolute;
+  top: 52px;
+  left: 175px;
+  width: 371px;
+  height: 45px;
+  transform: translate(-0.25px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__x7Py5 {
+  display: block;
+  font-size: 45px;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 50px;
+  color: rgba(63, 58, 41, 1);
+}
+.div11 {
+  width: 310px;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 150px;
+  left: 205px;
+}
+.div12 {
+  height: 54px;
+  display: block;
+  position: absolute;
+  top: 50px;
+  left: 0px;
+  right: 0px;
+}
+.div13 {
+  background: rgba(145, 137, 109, 1);
+  width: 50px;
+  height: 54px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 2px;
+}
+._1 {
+  position: absolute;
+  top: 10px;
+  left: 19px;
+  width: 13px;
+  height: 35px;
+  transform: translate(-0.31299999999999883px, -0.5px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__ogwR4 {
+  display: block;
+  font-size: 35px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 25px;
+  color: rgba(255, 255, 255, 1);
+}
+.placeTheVitaminAirDeviceAgainstYourLips {
+  position: absolute;
+  top: 3px;
+  left: 80px;
+  width: 218px;
+  height: 47px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___3VWc1 {
+  display: block;
+  font-size: 20px;
+  letter-spacing: 0em;
+  line-height: 27px;
+  color: rgba(102, 102, 102, 1);
+}
+.div14 {
+  height: 54px;
+  display: block;
+  position: absolute;
+  top: 154px;
+  left: 0px;
+  right: 0px;
+}
+.div15 {
+  background: rgba(145, 137, 109, 1);
+  width: 50px;
+  height: 54px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 2px;
+}
+._2 {
+  position: absolute;
+  top: 10px;
+  left: 17px;
+  width: 17px;
+  height: 35px;
+  transform: translate(-0.25px, -0.5px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___32Nel {
+  display: block;
+  font-size: 35px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 25px;
+  color: rgba(255, 255, 255, 1);
+}
+.inhaleYourDeliciousStrawberryOrVanillaFlavor {
+  position: absolute;
+  top: 3px;
+  left: 80px;
+  width: 209px;
+  height: 47px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__fu6Tq {
+  display: block;
+  font-size: 20px;
+  letter-spacing: 0em;
+  line-height: 27px;
+  color: rgba(102, 102, 102, 1);
+}
+.div16 {
+  height: 54px;
+  display: block;
+  position: absolute;
+  top: 258px;
+  left: 0px;
+  right: 0px;
+}
+.div17 {
+  background: rgba(145, 137, 109, 1);
+  width: 50px;
+  height: 54px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 2px;
+}
+._3 {
+  position: absolute;
+  top: 10px;
+  left: 17px;
+  width: 16px;
+  height: 35px;
+  transform: translate(0.4529999999999994px, -0.5px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__e4XQy {
+  display: block;
+  font-size: 35px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 25px;
+  color: rgba(255, 255, 255, 1);
+}
+.exhaleAndWatchTheUrgeToSmokeSlowlyDriftAway {
+  position: absolute;
+  top: 3px;
+  left: 80px;
+  width: 225px;
+  height: 47px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__mucdZ {
+  display: block;
+  font-size: 20px;
+  letter-spacing: 0em;
+  line-height: 27px;
+  color: rgba(102, 102, 102, 1);
+}
+.div18 {
+  width: 1400px;
+  height: 1px;
+  display: block;
+  position: absolute;
+  left: 20px;
+  top: 1596px;
+}
+.div19 {
+  height: 150px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+.formulatedWithZeroNic {
+  position: absolute;
+  top: 16px;
+  left: 568px;
+  width: 266px;
+  height: 18px;
+  transform: translate(-0.5px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__tkT5B {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 2px;
+  line-height: 50px;
+  color: rgba(227, 166, 20, 1);
+}
+.h22 {
+  width: 1400px;
+  height: 100px;
+  display: block;
+  position: absolute;
+  top: 50px;
+  left: 0px;
+}
+.replaceNicWith {
+  position: absolute;
+  top: 2px;
+  left: 548px;
+  width: 305px;
+  height: 45px;
+  transform: translate(-0.03200000000003911px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.replaceNicWith2 {
+  display: block;
+  font-size: 45px;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 50px;
+  color: rgba(63, 58, 41, 1);
+}
+.lifeEnhancingVitamins {
+  position: absolute;
+  top: 52px;
+  left: 486px;
+  width: 429px;
+  height: 45px;
+  transform: translate(-0.28199999999998226px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__u4EG {
+  display: block;
+  font-size: 45px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 50px;
+  color: rgba(63, 58, 41, 1);
+}
+.div20 {
+  height: 461px;
+  display: block;
+  position: absolute;
+  top: 150px;
+  left: 0px;
+  right: 0px;
+}
+.div21 {
+  height: 403px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 0px;
+  right: 756px;
+}
+.h3 {
+  width: 644px;
+  height: 90px;
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0px;
+}
+.rechargeWithVitaminsAminoAcidsAndHerbs {
+  position: absolute;
+  top: 2px;
+  left: 96px;
+  width: 453px;
+  height: 25px;
+  transform: translate(-0.031999999999996476px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.rechargeWithVitaminsAminoAcidsAndHerbs2 {
+  display: block;
+  font-size: 25px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 30px;
+  color: rgba(227, 166, 20, 1);
+}
+.traditionallyFoundInSupplementsThatElevateMentalAndPhysicalEndurance {
+  position: absolute;
+  top: 32px;
+  left: 95px;
+  width: 455px;
+  height: 55px;
+  transform: translate(-0.2819999999999965px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__pKb8N {
+  display: block;
+  font-size: 25px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 30px;
+  color: rgba(227, 166, 20, 1);
+}
+.p2 {
+  width: 644px;
+  height: 140px;
+  display: block;
+  position: absolute;
+  top: 125px;
+  left: 0px;
+}
+.byTradingInNicAndHarmfulChemicalsForExtensivelyResearchedNutraceutical {
+  position: absolute;
+  top: 2px;
+  left: 92px;
+  width: 461px;
+  height: 15px;
+  transform: translate(-0.09399999999999409px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.byTradingInNicAndHarmfulChemicalsForExtensivelyResearchedNutraceutical2 {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(102, 102, 102, 1);
+}
+.ingredientsSparqIsImaginingTheEvolutionOfInhalationWhereWellnessIsThe {
+  position: absolute;
+  top: 22px;
+  left: 81px;
+  width: 483px;
+  height: 15px;
+  transform: translate(-0.25px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.ingredientsSparqIsImaginingTheEvolutionOfInhalationWhereWellnessIsThe2 {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(102, 102, 102, 1);
+}
+.ultimateGoalOurPatentedDeviceVitaminAirIsSustainablyDesignedToImproveTheLivesOfUsersThroughPositiveLifestyleChangesAndSocialInteractionsTeamingUpWithTopScientificMindsSparqContinuesToResearchTheRealmOfVitaminAndHerbalAbsorptionThroughTheLungsWeSpareNoExpenseInOurCommitmentToProducingMeaningfulAndTransformativeInnovations {
+  position: absolute;
+  top: 42px;
+  left: 69px;
+  width: 508px;
+  height: 95px;
+  transform: translate(-0.06300000000000239px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___5IUrh {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(102, 102, 102, 1);
+}
+.div22 {
+  height: 138px;
+  display: block;
+  position: absolute;
+  top: 265px;
+  left: 0px;
+  right: 0px;
+}
+.p3 {
+  width: 644px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 25px;
+  left: 0px;
+}
+.starpng2 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/starpng.png") 0px 0px / 80px 14px no-repeat;
+  transform: translate(0.06200000000001182px, 0.32799999999999985px);
+  width: 80px;
+  height: 15px;
+  display: block;
+  position: absolute;
+  top: 2px;
+  left: 195px;
+}
+._485BasedOn1000Reviews2 {
+  position: absolute;
+  top: 2px;
+  left: 275px;
+  width: 175px;
+  height: 15px;
+  transform: translate(0.06200000000001182px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___6P5Ca {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(102, 102, 102, 1);
+}
+.a2 {
+  background: rgba(126, 192, 10, 1);
+  width: 280px;
+  height: 51px;
+  display: block;
+  position: absolute;
+  top: 53px;
+  left: 182px;
+  border-radius: 5px;
+}
+.getYoursNow2 {
+  position: absolute;
+  top: 16px;
+  left: 59px;
+  width: 128px;
+  height: 18px;
+  transform: translate(-0.26599999999999824px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__lNqDp {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 27px;
+  color: rgba(255, 255, 255, 1);
+}
+.handsvg2 {
+  transform: translate(0.26499999999998636px, -0.15700000000000003px);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 11px;
+  left: 196px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.img__hgt6Y {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 25px;
+  height: 26px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none !important;
+}
+.img__hgt6Y > picture > img {
+  object-fit: cover;
+}
+.img__hgt6Y > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}
+@media (min-width: 768px) {
+  .img__hgt6Y {
+    display: block !important;
+  }
+}
+.paymentlogo40976E39C5C646C8Be427D059A418536Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/paymentlogopng.png") 0px 0px / 221px 21px no-repeat;
+  transform: translate(-0.5px, 0.09300000000000352px);
+  width: 221px;
+  height: 21px;
+  display: block;
+  position: absolute;
+  top: 117px;
+  left: 212px;
+}
+.sparqBoxAnimationLoopShorterVersiongif {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/sparqBoxAnimationLoopShorterVersiongif.png") 0px 0px / 746px 420px no-repeat;
+  height: 421px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 654px;
+  right: 0px;
+}
+.div23 {
+  background: rgba(250, 250, 248, 1);
+  width: 1440px;
+  height: 780px;
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 2276px;
+}
+.div24 {
+  width: 1400px;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 70px;
+  left: 20px;
+}
+.div25 {
+  height: 150px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+.organicVegetableGlycerinAndNaturalFlavors {
+  position: absolute;
+  top: 16px;
+  left: 448px;
+  width: 504px;
+  height: 18px;
+  transform: translate(0.45299999999997453px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__zp5Dy {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 2px;
+  line-height: 50px;
+  color: rgba(227, 166, 20, 1);
+}
+.vitaminAirsCarefullyDesignedFormulaHelpsYouQuitForGood {
+  position: absolute;
+  top: 52px;
+  left: 337px;
+  width: 726px;
+  height: 95px;
+  transform: translate(0.10899999999998045px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__mZmic {
+  display: block;
+  font-size: 45px;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 50px;
+  color: rgba(63, 58, 41, 1);
+}
+.div26 {
+  height: 530px;
+  display: block;
+  position: absolute;
+  top: 150px;
+  left: 0px;
+  right: 0px;
+}
+.div27 {
+  transform: translate(0.03100000000000591px, 0px);
+  width: 308px;
+  height: 195px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 80px;
+}
+.myProjectpng {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/myProjectpng.png") 0px 0px / 155px 120px no-repeat;
+  transform: translate(0.4680000000000035px, 0px);
+  width: 156px;
+  height: 120px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 76px;
+}
+.betaAlanine {
+  position: absolute;
+  top: 140px;
+  left: 109px;
+  width: 91px;
+  height: 15px;
+  transform: translate(-0.25px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__ro9O4 {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 25px;
+  color: rgba(102, 102, 102, 1);
+}
+.increasesExerciseCapacity {
+  position: absolute;
+  top: 174px;
+  left: 38px;
+  width: 233px;
+  height: 22px;
+  transform: translate(-0.23499999999999943px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__eXw {
+  display: block;
+  font-size: 22px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.div28 {
+  transform: translate(-0.32900000000000773px, 0px);
+  width: 308px;
+  height: 195px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 391px;
+}
+.myProject2Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/myProject2Png.png") 0px 0px / 183px 120px no-repeat;
+  transform: translate(-0.375px, 0px);
+  width: 183px;
+  height: 120px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 63px;
+}
+.lCholine {
+  position: absolute;
+  top: 140px;
+  left: 121px;
+  width: 67px;
+  height: 15px;
+  transform: translate(-0.3289999999999935px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__gtM62 {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 25px;
+  color: rgba(102, 102, 102, 1);
+}
+.moodRegulator {
+  position: absolute;
+  top: 174px;
+  left: 86px;
+  width: 137px;
+  height: 22px;
+  transform: translate(-0.09399999999999409px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__f6A1R {
+  display: block;
+  font-size: 22px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.div29 {
+  transform: translate(0.3120000000000118px, 0px);
+  width: 308px;
+  height: 195px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 701px;
+}
+.myProject5Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/myProject5Png.png") 0px 0px / 174px 120px no-repeat;
+  transform: translate(0.10899999999999466px, 0px);
+  width: 174px;
+  height: 120px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 67px;
+}
+.blueberryExtract {
+  position: absolute;
+  top: 140px;
+  left: 89px;
+  width: 131px;
+  height: 15px;
+  transform: translate(-0.17199999999999704px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__lVeX {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 25px;
+  color: rgba(102, 102, 102, 1);
+}
+.protectsAgainstAging {
+  position: absolute;
+  top: 174px;
+  left: 57px;
+  width: 195px;
+  height: 22px;
+  transform: translate(-0.17199999999999704px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__brRuf {
+  display: block;
+  font-size: 22px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.div30 {
+  transform: translate(-0.047000000000025466px, 0px);
+  width: 308px;
+  height: 195px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 1012px;
+}
+.myProject3Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/myProject3Png.png") 0px 0px / 173px 120px no-repeat;
+  transform: translate(-0.4069999999999965px, 0px);
+  width: 173px;
+  height: 120px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 68px;
+}
+.lTheanine {
+  position: absolute;
+  top: 140px;
+  left: 116px;
+  width: 77px;
+  height: 15px;
+  transform: translate(-0.031999999999996476px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__k2Uhy {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 25px;
+  color: rgba(102, 102, 102, 1);
+}
+.improvesMentalFocus {
+  position: absolute;
+  top: 174px;
+  left: 55px;
+  width: 199px;
+  height: 22px;
+  transform: translate(-0.26599999999999824px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__xa7Yd {
+  display: block;
+  font-size: 22px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.div31 {
+  transform: translate(0.35900000000000887px, 0px);
+  width: 308px;
+  height: 195px;
+  display: block;
+  position: absolute;
+  top: 285px;
+  left: 235px;
+}
+.myProject7Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/myProject7Png.png") 0px 0px / 176px 120px no-repeat;
+  transform: translate(0.1560000000000059px, 0px);
+  width: 176px;
+  height: 120px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 66px;
+}
+.greenTea {
+  position: absolute;
+  top: 140px;
+  left: 120px;
+  width: 69px;
+  height: 15px;
+  transform: translate(-0.3289999999999935px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__ya58T {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 25px;
+  color: rgba(102, 102, 102, 1);
+}
+.increasesFatBurning {
+  position: absolute;
+  top: 174px;
+  left: 62px;
+  width: 185px;
+  height: 22px;
+  transform: translate(-0.2819999999999965px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__ic6Ur {
+  display: block;
+  font-size: 22px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.div32 {
+  width: 308px;
+  height: 195px;
+  display: block;
+  position: absolute;
+  top: 285px;
+  left: 546px;
+}
+.myProject6Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/myProject6Png.png") 0px 0px / 183px 120px no-repeat;
+  transform: translate(-0.375px, 0px);
+  width: 183px;
+  height: 120px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 63px;
+}
+.grapeSeed {
+  position: absolute;
+  top: 140px;
+  left: 116px;
+  width: 77px;
+  height: 15px;
+  transform: translate(0.03100000000000591px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__hgY3X {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 25px;
+  color: rgba(102, 102, 102, 1);
+}
+.increasesExerciseCapacity2 {
+  position: absolute;
+  top: 174px;
+  left: 38px;
+  width: 233px;
+  height: 22px;
+  transform: translate(-0.23499999999999943px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__mGj3X {
+  display: block;
+  font-size: 22px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.div33 {
+  transform: translate(-0.36000000000001364px, 0px);
+  width: 308px;
+  height: 195px;
+  display: block;
+  position: absolute;
+  top: 285px;
+  left: 857px;
+}
+.myProject4Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/myProject4Png.png") 0px 0px / 185px 120px no-repeat;
+  transform: translate(-0.4380000000000024px, 0px);
+  width: 185px;
+  height: 120px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 62px;
+}
+.acaiBerry {
+  position: absolute;
+  top: 140px;
+  left: 118px;
+  width: 73px;
+  height: 15px;
+  transform: translate(-0.10999999999999943px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__jsydJ {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 25px;
+  color: rgba(102, 102, 102, 1);
+}
+.metabolismBooster {
+  position: absolute;
+  top: 174px;
+  left: 66px;
+  width: 177px;
+  height: 22px;
+  transform: translate(-0.016000000000005343px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__uzKW {
+  display: block;
+  font-size: 22px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.div34 {
+  background: linear-gradient(
+      180deg,
+      rgba(246, 246, 241, 1) 99%,
+      rgba(237, 237, 227, 1) 199%
+    )
+    0% 0% / 100% 100% no-repeat;
+  width: 1440px;
+  height: 757px;
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 3056px;
+}
+.promissory700Cba5Ab8264B5C8106987450146E3Bpng {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/promissory700Cba5AB8264B5C8106987450146E3Bpng.jpeg") 0px 0px / 720px 756px no-repeat;
+  width: 720px;
+  height: 757px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.promissorylayerpng {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/promissorylayerpng.png") 0px 0px / 280px 292px no-repeat;
+  transform: translate(0px, 0.09299999999996089px);
+  width: 280px;
+  display: block;
+  position: absolute;
+  top: 604px;
+  right: 30px;
+  bottom: -141px;
+}
+.div35 {
+  transform: translate(0px, 0.23400000000000176px);
+  height: 664px;
+  display: block;
+  position: absolute;
+  top: 46px;
+  left: 720px;
+  right: 0px;
+}
+.promissoryCommitment {
+  position: absolute;
+  top: 16px;
+  left: 236px;
+  width: 249px;
+  height: 18px;
+  transform: translate(-0.1570000000000107px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__tL8 {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 2px;
+  line-height: 50px;
+  color: rgba(227, 166, 20, 1);
+}
+.formulatedWithZeroNic2 {
+  position: absolute;
+  top: 52px;
+  left: 213px;
+  width: 295px;
+  height: 95px;
+  transform: translate(-0.09399999999999409px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__bkd3T {
+  display: block;
+  font-size: 45px;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 50px;
+  color: rgba(63, 58, 41, 1);
+}
+.div36 {
+  width: 510px;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 150px;
+  left: 105px;
+}
+.div37 {
+  height: 73px;
+  display: block;
+  position: absolute;
+  top: 40px;
+  left: 0px;
+  right: 0px;
+}
+.promissoryitem1Cb038F041A2B4C5BAf9995014E9Df68Fpng {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/promissoryitem1Cb038F041A2B4C5BAf9995014E9Df68Fpng.png") 0px 0px / 40px 40px no-repeat;
+  width: 40px;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.div38 {
+  width: 470px;
+  height: 75px;
+  display: block;
+  position: absolute;
+  top: -3px;
+  left: 40px;
+}
+.safetyPractices {
+  position: absolute;
+  top: 0px;
+  left: 25px;
+  width: 196px;
+  height: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__ztirc {
+  display: block;
+  font-size: 25px;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 25px;
+  color: rgba(63, 58, 41, 1);
+}
+.weLiveByTheHippocraticOathFirstDoNoHarmOurProductsAreMadeWithoutNicOrHarmfulChemicals {
+  position: absolute;
+  top: 37px;
+  left: 25px;
+  width: 422px;
+  height: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___4XWp6 {
+  display: block;
+  font-size: 15px;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(102, 102, 102, 1);
+}
+.div39 {
+  height: 93px;
+  display: block;
+  position: absolute;
+  top: 153px;
+  left: 0px;
+  right: 0px;
+}
+.promissoryitem2D1Cae334B4Ca4E4F8FbaFc3F796C4042Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/promissoryitem2D1Cae334B4Ca4E4F8FbaFc3F796C4042Png.png") 0px 0px / 40px 40px no-repeat;
+  width: 40px;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.div40 {
+  width: 470px;
+  height: 95px;
+  display: block;
+  position: absolute;
+  top: -3px;
+  left: 40px;
+}
+.extensiveScientificResearch {
+  position: absolute;
+  top: 0px;
+  left: 25px;
+  width: 352px;
+  height: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__fMIis {
+  display: block;
+  font-size: 25px;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 25px;
+  color: rgba(63, 58, 41, 1);
+}
+.weEnsureAllOurProductsAreFormulatedUnderTheDirectionOfARenownedInhalationToxicologistAndTestedByAnIsoAccreditedIndependentLaboratory {
+  position: absolute;
+  top: 37px;
+  left: 25px;
+  width: 443px;
+  height: 55px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__jcQiR {
+  display: block;
+  font-size: 15px;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(102, 102, 102, 1);
+}
+.div41 {
+  height: 73px;
+  display: block;
+  position: absolute;
+  top: 286px;
+  left: 0px;
+  right: 0px;
+}
+.promissoryitem3674784Dc9A844F5A8B80175Ce3E3F7C3Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/promissoryitem3674784Dc9A844F5A8B80175Ce3E3F7C3Png.png") 0px 0px / 40px 39px no-repeat;
+  width: 40px;
+  height: 40px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.div42 {
+  width: 470px;
+  height: 75px;
+  display: block;
+  position: absolute;
+  top: -3px;
+  left: 40px;
+}
+.environmentallyFriendly {
+  position: absolute;
+  top: 0px;
+  left: 25px;
+  width: 317px;
+  height: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___62IIq {
+  display: block;
+  font-size: 25px;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 25px;
+  color: rgba(63, 58, 41, 1);
+}
+.weSeekToInspireACultureOfEnvironmentalSensitivityThroughSustainableProductDesignAndEthicalBusinessPractices {
+  position: absolute;
+  top: 37px;
+  left: 25px;
+  width: 442px;
+  height: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__kt1Tp {
+  display: block;
+  font-size: 15px;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(102, 102, 102, 1);
+}
+.div43 {
+  height: 115px;
+  display: block;
+  position: absolute;
+  top: 549px;
+  left: 0px;
+  right: 0px;
+}
+.p4 {
+  width: 720px;
+  height: 22px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.starpng3 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/starpng.png") 0px 0px / 80px 14px no-repeat;
+  transform: translate(0.06200000000001182px, 0.32799999999999985px);
+  width: 80px;
+  height: 15px;
+  display: block;
+  position: absolute;
+  top: 3px;
+  left: 233px;
+}
+._485BasedOn1000Reviews3 {
+  position: absolute;
+  top: 3px;
+  left: 313px;
+  width: 175px;
+  height: 15px;
+  transform: translate(0.06200000000001182px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__ilOl0 {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 22px;
+  color: rgba(102, 102, 102, 1);
+}
+.a3 {
+  background: rgba(126, 192, 10, 1);
+  width: 280px;
+  height: 51px;
+  display: block;
+  position: absolute;
+  top: 30px;
+  left: 220px;
+  border-radius: 5px;
+}
+.getYoursNow3 {
+  position: absolute;
+  top: 16px;
+  left: 59px;
+  width: 128px;
+  height: 18px;
+  transform: translate(-0.26599999999999824px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__clEhm {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 27px;
+  color: rgba(255, 255, 255, 1);
+}
+.handsvg3 {
+  transform: translate(0.26499999999998636px, -0.15700000000000003px);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 11px;
+  left: 196px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.img__hy0M {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 25px;
+  height: 26px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none !important;
+}
+.img__hy0M > picture > img {
+  object-fit: cover;
+}
+.img__hy0M > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}
+@media (min-width: 768px) {
+  .img__hy0M {
+    display: block !important;
+  }
+}
+.paymentlogo40976E39C5C646C8Be427D059A418536Png2 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/paymentlogopng.png") 0px 0px / 221px 21px no-repeat;
+  transform: translate(-0.5px, 0.09300000000000352px);
+  width: 221px;
+  height: 21px;
+  display: block;
+  position: absolute;
+  top: 94px;
+  left: 250px;
+}
+.div44 {
+  width: 1400px;
+  height: 1px;
+  display: block;
+  position: absolute;
+  left: 20px;
+  top: 3883px;
+}
+.div45 {
+  height: 137px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+.customerReviews {
+  position: absolute;
+  top: 16px;
+  left: 609px;
+  width: 184px;
+  height: 18px;
+  transform: translate(-0.42200000000002547px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__p0Ewt {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 2px;
+  line-height: 50px;
+  color: rgba(227, 166, 20, 1);
+}
+.dontJustTakeOurWordForIt {
+  position: absolute;
+  top: 52px;
+  left: 428px;
+  width: 545px;
+  height: 45px;
+  transform: translate(-0.39100000000001955px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__otlMb {
+  display: block;
+  font-size: 45px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 50px;
+  color: rgba(63, 58, 41, 1);
+}
+.h5 {
+  width: 1400px;
+  height: 22px;
+  display: block;
+  position: absolute;
+  top: 115px;
+  left: 0px;
+}
+.starpng4 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/starpng.png") 0px 0px / 85px 15px no-repeat;
+  transform: translate(-0.4379999999999882px, -0.125px);
+  width: 85px;
+  height: 16px;
+  display: block;
+  position: absolute;
+  top: 4px;
+  left: 571px;
+}
+._485BasedOn1000Reviews4 {
+  position: absolute;
+  top: 3px;
+  left: 656px;
+  width: 175px;
+  height: 15px;
+  transform: translate(-0.4379999999999882px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___3JTeu {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 22px;
+  color: rgba(102, 102, 102, 1);
+}
+.div46 {
+  height: 466px;
+  display: block;
+  position: absolute;
+  top: 187px;
+  left: 100px;
+  right: 100px;
+}
+.div47 {
+  width: 1200px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 442px;
+  left: 0px;
+}
+.button {
+  background: rgba(227, 166, 20, 1);
+  width: 10px;
+  height: 10px;
+  display: block;
+  position: absolute;
+  top: 12px;
+  left: 575px;
+  border-radius: 5px;
+}
+.button2 {
+  background: rgba(245, 245, 240, 1);
+  width: 10px;
+  height: 10px;
+  display: block;
+  position: absolute;
+  top: 12px;
+  left: 595px;
+  border-radius: 5px;
+}
+.button3 {
+  background: rgba(245, 245, 240, 1);
+  width: 10px;
+  height: 10px;
+  display: block;
+  position: absolute;
+  top: 12px;
+  left: 615px;
+  border-radius: 5px;
+}
+.div48 {
+  width: 1200px;
+  height: 422px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.div49 {
+  width: 7790px;
+  height: 372px;
+  display: block;
+  position: absolute;
+  top: 50px;
+  left: -2050px;
+}
+.div50 {
+  background: rgba(245, 245, 240, 1);
+  height: 372px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 2050px;
+  right: 5360px;
+}
+.sidereview1Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/sidereview1Png.png") 0px 0px / 100px 100px no-repeat;
+  width: 100px;
+  height: 100px;
+  display: block;
+  position: absolute;
+  top: -45px;
+  left: 140px;
+  border-radius: 50px;
+}
+.bestAlternativeToSmoking {
+  position: absolute;
+  top: 82px;
+  left: 69px;
+  width: 242px;
+  height: 18px;
+  transform: translate(0.125px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__t2H0S {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 22px;
+  color: rgba(123, 84, 56, 1);
+}
+.iSmokdForOver29YearsNowNotOnlyHaveIQuitButImDoingSomethingHealthy {
+  position: absolute;
+  top: 149px;
+  left: 42px;
+  width: 296px;
+  height: 37px;
+  transform: translate(0.32800000000000296px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__mhxjO {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 22px;
+  color: rgba(102, 102, 102, 1);
+}
+.isaiahS {
+  position: absolute;
+  top: 299px;
+  left: 166px;
+  width: 48px;
+  height: 15px;
+  transform: translate(0.18700000000001182px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__gv6X {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 27px;
+  color: rgba(123, 84, 56, 1);
+}
+.h52 {
+  height: 27px;
+  display: block;
+  position: absolute;
+  top: 320px;
+  left: 32px;
+  right: 32px;
+}
+.verifypng {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/verifypng.png") 0px 0px / 15px 15px no-repeat;
+  transform: translate(-0.26600000000000534px, -0.125px);
+  width: 15px;
+  height: 15px;
+  display: block;
+  position: absolute;
+  top: 7px;
+  left: 113px;
+}
+.verifiedBuyer {
+  position: absolute;
+  top: 7px;
+  left: 133px;
+  width: 71px;
+  height: 13px;
+  transform: translate(-0.26599999999999113px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__olmCp {
+  display: block;
+  font-size: 12.5px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 27px;
+  color: rgba(102, 102, 102, 1);
+}
+.div51 {
+  background: rgba(245, 245, 240, 1);
+  height: 372px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 2460px;
+  right: 4950px;
+}
+.sidereview2Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/sidereview2Png.png") 0px 0px / 100px 100px no-repeat;
+  width: 100px;
+  height: 100px;
+  display: block;
+  position: absolute;
+  top: -45px;
+  left: 140px;
+  border-radius: 50px;
+}
+.awesome {
+  position: absolute;
+  top: 82px;
+  left: 150px;
+  width: 80px;
+  height: 18px;
+  transform: translate(0.18700000000001182px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___7T7Pi {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 22px;
+  color: rgba(123, 84, 56, 1);
+}
+.excellentILoveThisIQuitCigsILoveThisDeviceItIsNaturalNoNicItReallyDoesHelpCalmMe {
+  position: absolute;
+  top: 149px;
+  left: 38px;
+  width: 305px;
+  height: 37px;
+  transform: translate(-0.07900000000000063px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__dx4Tb {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 22px;
+  color: rgba(102, 102, 102, 1);
+}
+.jasonG {
+  position: absolute;
+  top: 299px;
+  left: 166px;
+  width: 48px;
+  height: 15px;
+  transform: translate(0.42099999999999227px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__xaqnR {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 27px;
+  color: rgba(123, 84, 56, 1);
+}
+.h53 {
+  height: 27px;
+  display: block;
+  position: absolute;
+  top: 320px;
+  left: 32px;
+  right: 32px;
+}
+.verifypng2 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/verifypng.png") 0px 0px / 15px 15px no-repeat;
+  transform: translate(-0.26600000000000534px, -0.125px);
+  width: 15px;
+  height: 15px;
+  display: block;
+  position: absolute;
+  top: 7px;
+  left: 113px;
+}
+.verifiedBuyer2 {
+  position: absolute;
+  top: 7px;
+  left: 133px;
+  width: 71px;
+  height: 13px;
+  transform: translate(-0.26599999999999113px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___7Uezn {
+  display: block;
+  font-size: 12.5px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 27px;
+  color: rgba(102, 102, 102, 1);
+}
+.div52 {
+  background: rgba(245, 245, 240, 1);
+  height: 372px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 2870px;
+  right: 4540px;
+}
+.sidereview3Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/sidereview3Png.png") 0px 0px / 100px 100px no-repeat;
+  width: 100px;
+  height: 100px;
+  display: block;
+  position: absolute;
+  top: -45px;
+  left: 140px;
+  border-radius: 50px;
+}
+.loveLove {
+  position: absolute;
+  top: 82px;
+  left: 143px;
+  width: 94px;
+  height: 18px;
+  transform: translate(0.45300000000000296px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__pAcBl {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 22px;
+  color: rgba(123, 84, 56, 1);
+}
+.imLiterallyObsessedTheTheElegantDesignAsWellAsTheJawDroppingPackaging {
+  position: absolute;
+  top: 149px;
+  left: 34px;
+  width: 312px;
+  height: 37px;
+  transform: translate(0.45300000000000296px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__rsrgw {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 22px;
+  color: rgba(102, 102, 102, 1);
+}
+.kathyB {
+  position: absolute;
+  top: 299px;
+  left: 167px;
+  width: 46px;
+  height: 15px;
+  transform: translate(0.45300000000000296px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__mkbN {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 27px;
+  color: rgba(123, 84, 56, 1);
+}
+.h54 {
+  height: 27px;
+  display: block;
+  position: absolute;
+  top: 320px;
+  left: 32px;
+  right: 32px;
+}
+.verifypng3 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/verifypng.png") 0px 0px / 15px 15px no-repeat;
+  transform: translate(-0.26600000000000534px, -0.125px);
+  width: 15px;
+  height: 15px;
+  display: block;
+  position: absolute;
+  top: 7px;
+  left: 113px;
+}
+.verifiedBuyer3 {
+  position: absolute;
+  top: 7px;
+  left: 133px;
+  width: 71px;
+  height: 13px;
+  transform: translate(-0.26599999999999113px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__d2MQ {
+  display: block;
+  font-size: 12.5px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 27px;
+  color: rgba(102, 102, 102, 1);
+}
+.leftarrpng {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/leftarrpng.png") 0px 0px / 45px 45px no-repeat;
+  transform: translate(0px, -0.32900000000000773px);
+  width: 45px;
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 224px;
+  left: -90px;
+}
+.rightarrpng {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/rightarrpng.png") 0px 0px / 45px 45px no-repeat;
+  transform: translate(0px, -0.32900000000000773px);
+  width: 45px;
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 224px;
+  left: 1245px;
+}
+.div53 {
+  background: linear-gradient(
+      180deg,
+      rgba(245, 245, 240, 1) 99%,
+      rgba(237, 237, 227, 1) 199%
+    )
+    0% 0% / 100% 100% no-repeat;
+  width: 1260px;
+  height: 421px;
+  display: block;
+  position: absolute;
+  left: 90px;
+  top: 4696px;
+}
+.group8Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/group8Png.png") 0px 0px / 175px 175px no-repeat;
+  transform: translate(-0.5px, 0px);
+  width: 175px;
+  height: 176px;
+  display: block;
+  position: absolute;
+  top: -85px;
+  left: 543px;
+}
+.div54 {
+  transform: translate(0px, 0.48399999999999466px);
+  height: 125px;
+  display: block;
+  position: absolute;
+  top: 90px;
+  left: 0px;
+  right: 0px;
+}
+.satisfactionGuarantee {
+  position: absolute;
+  top: 41px;
+  left: 509px;
+  width: 242px;
+  height: 18px;
+  transform: translate(0.125px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__u57Mv {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 2px;
+  line-height: 50px;
+  color: rgba(227, 166, 20, 1);
+}
+._15DaysMoneyBackGuarantee {
+  position: absolute;
+  top: 77px;
+  left: 362px;
+  width: 536px;
+  height: 45px;
+  transform: translate(0.125px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__gj57V {
+  display: block;
+  font-size: 45px;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 50px;
+  color: rgba(63, 58, 41, 1);
+}
+.moneybackleftpng {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/moneybackleftpng.png") 0px 0px / 120px 359px no-repeat;
+  display: block;
+  position: absolute;
+  top: -50px;
+  left: 30px;
+  right: 1110px;
+  bottom: 110px;
+}
+.moneybackrightpng {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/moneybackrightpng.png") 0px 0px / 344px 394px no-repeat;
+  display: block;
+  position: absolute;
+  top: 25px;
+  left: 936px;
+  right: -20px;
+  bottom: 1px;
+}
+.div55 {
+  transform: translate(0px, 0.48400000000000887px);
+  height: 140px;
+  display: block;
+  position: absolute;
+  top: 215px;
+  left: 0px;
+  right: 0px;
+}
+.p5 {
+  width: 1260px;
+  height: 22px;
+  display: block;
+  position: absolute;
+  top: 25px;
+  left: 0px;
+}
+.starpng5 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/starpng.png") 0px 0px / 80px 14px no-repeat;
+  transform: translate(0.06200000000001182px, 0.32799999999999985px);
+  width: 80px;
+  height: 15px;
+  display: block;
+  position: absolute;
+  top: 3px;
+  left: 503px;
+}
+._485BasedOn1000Reviews5 {
+  position: absolute;
+  top: 3px;
+  left: 583px;
+  width: 175px;
+  height: 15px;
+  transform: translate(0.06200000000001182px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__oqIob {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 22px;
+  color: rgba(102, 102, 102, 1);
+}
+.a4 {
+  background: rgba(126, 192, 10, 1);
+  width: 280px;
+  height: 51px;
+  display: block;
+  position: absolute;
+  top: 55px;
+  left: 490px;
+  border-radius: 5px;
+}
+.getYoursNow4 {
+  position: absolute;
+  top: 16px;
+  left: 59px;
+  width: 128px;
+  height: 18px;
+  transform: translate(-0.26599999999999824px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__csZj5 {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 27px;
+  color: rgba(255, 255, 255, 1);
+}
+.handsvg4 {
+  transform: translate(0.26499999999998636px, -0.15700000000000003px);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 11px;
+  left: 196px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.img__lWyMv {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 25px;
+  height: 26px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none !important;
+}
+.img__lWyMv > picture > img {
+  object-fit: cover;
+}
+.img__lWyMv > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}
+@media (min-width: 768px) {
+  .img__lWyMv {
+    display: block !important;
+  }
+}
+.paymentlogopng2 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/paymentlogopng2.png") 0px 0px / 221px 21px no-repeat;
+  transform: translate(-0.5px, 0.09300000000000352px);
+  width: 221px;
+  height: 21px;
+  display: block;
+  position: absolute;
+  top: 119px;
+  left: 520px;
+}
+.div56 {
+  width: 1440px;
+  height: 725px;
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 5116px;
+}
+.promissorylayerpng2 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/promissorylayerpng.png") 0px 0px / 280px 292px no-repeat;
+  transform: translate(0px, -0.375px);
+  width: 280px;
+  display: block;
+  position: absolute;
+  top: 533px;
+  right: 30px;
+  bottom: -101px;
+}
+.div57 {
+  width: 850px;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 70px;
+  left: 295px;
+}
+.h23 {
+  width: 850px;
+  height: 100px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.questions {
+  position: absolute;
+  top: 2px;
+  left: 331px;
+  width: 188px;
+  height: 45px;
+  transform: translate(0.13999999999998636px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.questions2 {
+  display: block;
+  font-size: 45px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 50px;
+  color: rgba(63, 58, 41, 1);
+}
+.weveGotYouCovered {
+  position: absolute;
+  top: 52px;
+  left: 222px;
+  width: 407px;
+  height: 45px;
+  transform: translate(-0.20400000000000773px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___6Ss7J {
+  display: block;
+  font-size: 45px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 50px;
+  color: rgba(63, 58, 41, 1);
+}
+.divaccordionExample {
+  width: 850px;
+  height: 425px;
+  display: block;
+  position: absolute;
+  top: 150px;
+  left: 0px;
+}
+.div58 {
+  background: rgba(243, 243, 236, 1);
+  width: 850px;
+  height: 77px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.divheading1 {
+  background: rgba(243, 243, 236, 1);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 29px 629px 29px 36px;
+}
+.text__cx19C {
+  display: block;
+  font-size: undefinedpx;
+  letter-spacing: 0em;
+  line-height: 20px;
+  position: relative;
+}
+.div59 {
+  background: rgba(243, 243, 236, 1);
+  width: 850px;
+  height: 77px;
+  display: block;
+  position: absolute;
+  top: 87px;
+  left: 0px;
+  overflow: hidden;
+}
+.divheading2 {
+  background: rgba(243, 243, 236, 1);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 29px 444px 29px 36px;
+}
+.text__lkMfG {
+  display: block;
+  font-size: undefinedpx;
+  letter-spacing: 0em;
+  line-height: 20px;
+  position: relative;
+}
+.div60 {
+  background: rgba(243, 243, 236, 1);
+  width: 850px;
+  height: 77px;
+  display: block;
+  position: absolute;
+  top: 174px;
+  left: 0px;
+  overflow: hidden;
+}
+.divheading3 {
+  background: rgba(243, 243, 236, 1);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 29px 582px 29px 36px;
+}
+.text___8EoA {
+  display: block;
+  font-size: undefinedpx;
+  letter-spacing: 0em;
+  line-height: 20px;
+  position: relative;
+}
+.div61 {
+  background: rgba(243, 243, 236, 1);
+  width: 850px;
+  height: 77px;
+  display: block;
+  position: absolute;
+  top: 261px;
+  left: 0px;
+  overflow: hidden;
+}
+.divheading4 {
+  background: rgba(243, 243, 236, 1);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 29px 653px 29px 36px;
+}
+.text__mcbSi {
+  display: block;
+  font-size: undefinedpx;
+  letter-spacing: 0em;
+  line-height: 20px;
+  position: relative;
+}
+.div62 {
+  background: rgba(243, 243, 236, 1);
+  width: 850px;
+  height: 77px;
+  display: block;
+  position: absolute;
+  top: 348px;
+  left: 0px;
+  overflow: hidden;
+}
+.divheading5 {
+  background: rgba(243, 243, 236, 1);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 29px 551px 29px 36px;
+}
+.text___9WLsk {
+  display: block;
+  font-size: undefinedpx;
+  letter-spacing: 0em;
+  line-height: 20px;
+  position: relative;
+}
+.divgetyourvitamin {
+  background: rgba(243, 243, 237, 1);
+  width: 1440px;
+  height: 1126px;
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 5841px;
+}
+.div63 {
+  width: 1400px;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 70px;
+  left: 20px;
+}
+.div64 {
+  height: 122px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+.getYourVitaminAirToday {
+  position: absolute;
+  top: -5px;
+  left: 325px;
+  width: 751px;
+  height: 60px;
+  transform: translate(-0.375px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__r7Ag3 {
+  display: block;
+  font-size: 60px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0em;
+  line-height: 50px;
+  color: rgba(79, 73, 54, 1);
+}
+.h55 {
+  width: 1400px;
+  height: 22px;
+  display: block;
+  position: absolute;
+  top: 60px;
+  left: 0px;
+}
+.starpng6 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/starpng.png") 0px 0px / 85px 15px no-repeat;
+  transform: translate(-0.4379999999999882px, -0.125px);
+  width: 85px;
+  height: 16px;
+  display: block;
+  position: absolute;
+  top: 4px;
+  left: 571px;
+}
+._485BasedOn1000Reviews6 {
+  position: absolute;
+  top: 3px;
+  left: 656px;
+  width: 175px;
+  height: 15px;
+  transform: translate(-0.4379999999999882px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__ieCdI {
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 22px;
+  color: rgba(102, 102, 102, 1);
+}
+._0Nic100FlavorLabTestedVitaminsRecyclable {
+  position: absolute;
+  top: 96px;
+  left: 441px;
+  width: 519px;
+  height: 22px;
+  transform: translate(-0.11000000000001364px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__ycJHt {
+  display: block;
+  font-size: 22px;
+  text-align: center;
+  text-transform: capitalize;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  line-height: 30px;
+  color: rgba(79, 73, 54, 1);
+}
+.div65 {
+  width: 1400px;
+  height: 784px;
+  display: block;
+  position: absolute;
+  top: 202px;
+  left: 0px;
+}
+.div66 {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: inset 0px 0px 0px 5px rgba(183, 42, 200, 0.31);
+  height: 784px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 15px;
+  right: 948px;
+  border-radius: 5px;
+}
+.form {
+  width: 367px;
+  height: 265px;
+  display: block;
+  position: absolute;
+  top: 35px;
+  left: 35px;
+}
+.label2 {
+  background: rgba(183, 42, 200, 1);
+  transform: translate(-0.031999999999996476px, 0px);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: -55px;
+  left: 86px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  border-radius: 9px;
+  padding: 10px 14.703px 10px 15px;
+}
+.text__a3Tw {
+  display: block;
+  font-size: 25px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 25px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.starterPackSave20 {
+  position: absolute;
+  top: 7px;
+  left: 23px;
+  width: 321px;
+  height: 35px;
+  transform: translate(0.25px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__ddzTb {
+  display: block;
+  font-size: 35px;
+  text-align: center;
+  text-transform: capitalize;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 50px;
+}
+._3Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/_3Png.png") 0px 0px / 151px 170px no-repeat;
+  transform: translate(-0.4069999999999965px, 0px);
+  width: 152px;
+  height: 170px;
+  display: block;
+  position: absolute;
+  top: 65px;
+  left: 108px;
+}
+.div67 {
+  height: 129px;
+  display: block;
+  position: absolute;
+  top: 265px;
+  left: 0px;
+  right: 0px;
+}
+.chooseFlavor {
+  position: absolute;
+  top: 1px;
+  left: 136px;
+  width: 95px;
+  height: 17px;
+  transform: translate(0.4060000000000059px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__hHcSj {
+  display: block;
+  font-size: 17px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.ul3 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 40px;
+  left: 92px;
+  flex-direction: row;
+}
+.ul3 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-left: calc(0px - 2.64px);
+  width: calc(100% + 2.64px);
+}
+.ul3 > :global(.__wab_flex-container) > *,
+.ul3 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.ul3 > :global(.__wab_flex-container) > picture > img,
+.ul3 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 2.64px;
+}
+.li5 {
+  width: 90px;
+  height: 89px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.div68 {
+  transform: translate(-0.5px, 0px);
+  width: 55px;
+  height: 55px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 18px;
+  border-radius: 27.5px;
+}
+.span {
+  background: rgba(249, 84, 126, 1);
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  border-radius: 22.5px;
+}
+.i {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text__wEjGo {
+  display: block;
+  font-size: 17px;
+  text-align: center;
+  font-family: "Font Awesome 5 Free";
+  letter-spacing: 0em;
+  line-height: 17px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.strawberry {
+  position: absolute;
+  top: 71px;
+  left: 9px;
+  width: 74px;
+  height: 17px;
+  transform: translate(-0.4540000000000006px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__bbZj6 {
+  display: block;
+  font-size: 17px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 19px;
+  color: rgba(79, 73, 54, 1);
+}
+.li6 {
+  width: 90px;
+  height: 89px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.div69 {
+  transform: translate(-0.5px, 0px);
+  width: 55px;
+  height: 55px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 18px;
+  border-radius: 27.5px;
+}
+.span2 {
+  background: rgba(244, 198, 156, 1);
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  border-radius: 22.5px;
+}
+.vanilla {
+  position: absolute;
+  top: 71px;
+  left: 22px;
+  width: 46px;
+  height: 17px;
+  transform: translate(0.25px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__zOqIe {
+  display: block;
+  font-size: 17px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 19px;
+  color: rgba(79, 73, 54, 1);
+}
+.div70 {
+  transform: translate(0.32800000000000296px, 0px);
+  width: 250px;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 429px;
+  left: 58px;
+}
+.whatsIncluded3Devices {
+  position: absolute;
+  top: 1px;
+  left: 33px;
+  width: 186px;
+  height: 17px;
+  transform: translate(-0.4540000000000006px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__pS0PO {
+  display: block;
+  font-size: 17px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.ul4 {
+  width: 250px;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.li7 {
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 28px;
+  left: 0px;
+  right: 0px;
+}
+.i2 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 2px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text___12U71 {
+  display: block;
+  font-size: 15px;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 15px;
+  color: rgba(63, 58, 41, 1);
+  position: relative;
+}
+._1FuelDeviceEnergyEnhancing {
+  position: absolute;
+  top: 2px;
+  left: 23px;
+  right: 34px;
+  height: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__hHXq5 {
+  display: block;
+  font-size: 15px;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.li8 {
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 48px;
+  left: 0px;
+  right: 0px;
+}
+.i3 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 2px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text__xXqUt {
+  display: block;
+  font-size: 15px;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 15px;
+  color: rgba(63, 58, 41, 1);
+  position: relative;
+}
+._1MeltDeviceMetabolismBoosting {
+  position: absolute;
+  top: 2px;
+  left: 23px;
+  right: 10px;
+  height: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__mC5E {
+  display: block;
+  font-size: 15px;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.li9 {
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 68px;
+  left: 0px;
+  right: 0px;
+}
+.i4 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 2px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text__ggFe {
+  display: block;
+  font-size: 15px;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 15px;
+  color: rgba(63, 58, 41, 1);
+  position: relative;
+}
+._1PureDeviceAgeDefying {
+  position: absolute;
+  top: 2px;
+  left: 23px;
+  right: 67px;
+  height: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__ioywT {
+  display: block;
+  font-size: 15px;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.for60004800 {
+  position: absolute;
+  top: 535px;
+  left: 96px;
+  width: 175px;
+  height: 25px;
+  transform: translate(0.21800000000000352px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__zq6Qp {
+  display: block;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 50px;
+  color: rgba(79, 73, 54, 1);
+}
+.div71 {
+  height: 141px;
+  display: block;
+  position: absolute;
+  top: 573px;
+  left: 0px;
+  right: 0px;
+}
+.div72 {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: inset 0px 0px 0px 3px rgba(212, 212, 200, 1);
+  height: 56px;
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0px;
+  right: 238px;
+  border-radius: 5px;
+}
+._ {
+  position: absolute;
+  top: 20px;
+  left: 22px;
+  width: 6px;
+  height: 16px;
+  transform: translate(-0.20400000000000063px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__eNw3R {
+  display: block;
+  font-size: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(102, 102, 102, 1);
+}
+.input {
+  background: rgba(255, 255, 255, 1);
+  transform: translate(-0.48499999999999943px, 0px);
+  height: 32px;
+  display: block;
+  position: absolute;
+  top: 12px;
+  left: 37px;
+  right: 36px;
+}
+.div73 {
+  width: 52px;
+  height: 30px;
+  display: block;
+  position: absolute;
+  top: 1px;
+  left: 2px;
+  overflow: hidden;
+}
+._4 {
+  position: absolute;
+  top: 2px;
+  left: 21px;
+  width: 9px;
+  height: 25px;
+  transform: translate(0.31200000000000117px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___03VFl {
+  display: block;
+  font-size: 25px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(102, 102, 102, 1);
+}
+._5 {
+  position: absolute;
+  top: 20px;
+  left: 100px;
+  width: 8px;
+  height: 16px;
+  transform: translate(0.1869999999999976px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__eALfo {
+  display: block;
+  font-size: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(102, 102, 102, 1);
+}
+.button4 {
+  background: rgba(141, 189, 59, 1);
+  transform: translate(0.32800000000000296px, 0px);
+  height: 55px;
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 138px;
+  right: 4px;
+  border-radius: 5px;
+}
+.addToCart {
+  position: absolute;
+  top: 17px;
+  left: 43px;
+  width: 114px;
+  height: 20px;
+  transform: translate(0.2809999999999988px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__wNhPv {
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0em;
+  line-height: 53px;
+  color: rgba(255, 255, 255, 1);
+}
+.handpng {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/handpng.png") 0px 0px / 20px 21px no-repeat;
+  transform: translate(0.375px, -0.15700000000000003px);
+  width: 20px;
+  height: 21px;
+  display: block;
+  position: absolute;
+  top: 17px;
+  left: 161px;
+}
+.paymenticonspng {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/paymenticonspng.png") 0px 0px / 250px 23px no-repeat;
+  transform: translate(0.32800000000000296px, -0.25px);
+  width: 250px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 83px;
+  left: 58px;
+}
+.div74 {
+  transform: translate(0px, -0.06300000000000239px);
+  height: 35px;
+  display: block;
+  position: absolute;
+  top: 106px;
+  left: 0px;
+  right: 0px;
+}
+.freeshippng {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/freeshippng.png") 0px 0px / 27px 15px no-repeat;
+  transform: translate(-0.07899999999999352px, -0.015999999999998238px);
+  width: 27px;
+  height: 15px;
+  display: block;
+  position: absolute;
+  top: 18px;
+  left: 103px;
+}
+.freeShipping2 {
+  position: absolute;
+  top: 15px;
+  left: 133px;
+  width: 132px;
+  height: 20px;
+  transform: translate(-0.07900000000000773px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___9Y4Qa {
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(205, 0, 0, 1);
+}
+.div75 {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: inset 0px 0px 0px 5px rgba(27, 165, 195, 0.479);
+  filter: drop-shadow(0px 1px 11.5px rgba(27, 165, 195, 1));
+  transform: translate(-0.3439999999999941px, 0px);
+  height: 784px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 482px;
+  right: 481px;
+  overflow: hidden;
+  border-radius: 5px;
+}
+.form2 {
+  width: 367px;
+  height: 265px;
+  display: block;
+  position: absolute;
+  top: 35px;
+  left: 35px;
+}
+.label3 {
+  background: rgba(27, 165, 195, 1);
+  transform: translate(0.4060000000000059px, 0px);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: -55px;
+  left: 106px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  border-radius: 9px;
+  padding: 10px 14.828px 10px 15px;
+}
+.text___2NEgH {
+  display: block;
+  font-size: 25px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 25px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.proPackSave30 {
+  position: absolute;
+  top: 7px;
+  left: 49px;
+  width: 270px;
+  height: 35px;
+  transform: translate(-0.0940000000000012px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__kBiq0 {
+  display: block;
+  font-size: 35px;
+  text-align: center;
+  text-transform: capitalize;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 50px;
+}
+._6Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/_6Png.png") 0px 0px / 312px 170px no-repeat;
+  transform: translate(0.23400000000000176px, 0px);
+  width: 313px;
+  height: 170px;
+  display: block;
+  position: absolute;
+  top: 65px;
+  left: 27px;
+}
+.div76 {
+  height: 129px;
+  display: block;
+  position: absolute;
+  top: 265px;
+  left: 0px;
+  right: 0px;
+}
+.includesBothFlavors {
+  position: absolute;
+  top: 1px;
+  left: 112px;
+  width: 144px;
+  height: 17px;
+  transform: translate(-0.17199999999999704px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__cBxVq {
+  display: block;
+  font-size: 17px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.ul5 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 40px;
+  left: 92px;
+  flex-direction: row;
+}
+.ul5 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-left: calc(0px - 2.64px);
+  width: calc(100% + 2.64px);
+}
+.ul5 > :global(.__wab_flex-container) > *,
+.ul5 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.ul5 > :global(.__wab_flex-container) > picture > img,
+.ul5 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 2.64px;
+}
+.li10 {
+  width: 90px;
+  height: 89px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.div77 {
+  transform: translate(-0.5px, 0px);
+  width: 55px;
+  height: 55px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 18px;
+  border-radius: 27.5px;
+}
+.span3 {
+  background: rgba(249, 84, 126, 1);
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  border-radius: 22.5px;
+}
+.i5 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text___6YXzC {
+  display: block;
+  font-size: 17px;
+  text-align: center;
+  font-family: "Font Awesome 5 Free";
+  letter-spacing: 0em;
+  line-height: 17px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.strawberry2 {
+  position: absolute;
+  top: 71px;
+  left: 9px;
+  width: 74px;
+  height: 17px;
+  transform: translate(-0.4540000000000006px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__d3Q8H {
+  display: block;
+  font-size: 17px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 19px;
+  color: rgba(79, 73, 54, 1);
+}
+.li11 {
+  width: 90px;
+  height: 89px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.div78 {
+  transform: translate(-0.5px, 0px);
+  width: 55px;
+  height: 55px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 18px;
+  border-radius: 27.5px;
+}
+.span4 {
+  background: rgba(244, 198, 156, 1);
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  border-radius: 22.5px;
+}
+.i6 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text__tEKo {
+  display: block;
+  font-size: 17px;
+  text-align: center;
+  font-family: "Font Awesome 5 Free";
+  letter-spacing: 0em;
+  line-height: 17px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.vanilla2 {
+  position: absolute;
+  top: 71px;
+  left: 22px;
+  width: 46px;
+  height: 17px;
+  transform: translate(0.25px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___9KTIt {
+  display: block;
+  font-size: 17px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 19px;
+  color: rgba(79, 73, 54, 1);
+}
+.div79 {
+  transform: translate(0.3279999999999994px, 0px);
+  width: 330px;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 429px;
+  left: 18px;
+}
+.whatsIncluded6Devices {
+  position: absolute;
+  top: 1px;
+  left: 72px;
+  width: 186px;
+  height: 17px;
+  transform: translate(0.10899999999999466px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__lHkSa {
+  display: block;
+  font-size: 17px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.ul6 {
+  width: 330px;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.li12 {
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 28px;
+  left: 0px;
+  right: 0px;
+}
+.i7 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 2px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text__qeQkw {
+  display: block;
+  font-size: 15px;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 15px;
+  color: rgba(63, 58, 41, 1);
+  position: relative;
+}
+._1FuelDeviceInEachFlavorEnergyEnhancing {
+  position: absolute;
+  top: 2px;
+  left: 23px;
+  right: 34px;
+  height: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__nkYmS {
+  display: block;
+  font-size: 15px;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.li13 {
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 48px;
+  left: 0px;
+  right: 0px;
+}
+.i8 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 2px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text__c4FW2 {
+  display: block;
+  font-size: 15px;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 15px;
+  color: rgba(63, 58, 41, 1);
+  position: relative;
+}
+._1MeltDeviceInEachFlavorMetabolismBoosting {
+  position: absolute;
+  top: 2px;
+  left: 23px;
+  right: 10px;
+  height: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__gkHa {
+  display: block;
+  font-size: 15px;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.li14 {
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 68px;
+  left: 0px;
+  right: 0px;
+}
+.i9 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 2px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text__y3Osx {
+  display: block;
+  font-size: 15px;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 15px;
+  color: rgba(63, 58, 41, 1);
+  position: relative;
+}
+._1PureDeviceInEachFlavorAgeDefying {
+  position: absolute;
+  top: 2px;
+  left: 23px;
+  right: 66px;
+  height: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__viZpG {
+  display: block;
+  font-size: 15px;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.for120008400 {
+  position: absolute;
+  top: 535px;
+  left: 92px;
+  width: 183px;
+  height: 25px;
+  transform: translate(0.09300000000000352px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___40O7P {
+  display: block;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 50px;
+  color: rgba(79, 73, 54, 1);
+}
+.div80 {
+  height: 141px;
+  display: block;
+  position: absolute;
+  top: 573px;
+  left: 0px;
+  right: 0px;
+}
+.div81 {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: inset 0px 0px 0px 3px rgba(212, 212, 200, 1);
+  height: 56px;
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0px;
+  right: 238px;
+  border-radius: 5px;
+}
+._6 {
+  position: absolute;
+  top: 20px;
+  left: 22px;
+  width: 6px;
+  height: 16px;
+  transform: translate(-0.20400000000000063px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__uMEsE {
+  display: block;
+  font-size: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(102, 102, 102, 1);
+}
+.input2 {
+  background: rgba(255, 255, 255, 1);
+  transform: translate(-0.48499999999999943px, 0px);
+  height: 32px;
+  display: block;
+  position: absolute;
+  top: 12px;
+  left: 37px;
+  right: 36px;
+}
+.div82 {
+  width: 52px;
+  height: 30px;
+  display: block;
+  position: absolute;
+  top: 1px;
+  left: 2px;
+  overflow: hidden;
+}
+._7 {
+  position: absolute;
+  top: 2px;
+  left: 21px;
+  width: 9px;
+  height: 25px;
+  transform: translate(0.31200000000000117px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__aSeQl {
+  display: block;
+  font-size: 25px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(102, 102, 102, 1);
+}
+._8 {
+  position: absolute;
+  top: 20px;
+  left: 100px;
+  width: 8px;
+  height: 16px;
+  transform: translate(0.1869999999999976px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__jraRw {
+  display: block;
+  font-size: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(102, 102, 102, 1);
+}
+.button5 {
+  background: rgba(141, 189, 59, 1);
+  transform: translate(0.32800000000000296px, 0px);
+  height: 55px;
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 138px;
+  right: 4px;
+  border-radius: 5px;
+}
+.addToCart2 {
+  position: absolute;
+  top: 17px;
+  left: 43px;
+  width: 114px;
+  height: 20px;
+  transform: translate(0.2809999999999988px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__pXwjp {
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0em;
+  line-height: 53px;
+  color: rgba(255, 255, 255, 1);
+}
+.handpng2 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/handpng.png") 0px 0px / 20px 21px no-repeat;
+  transform: translate(0.375px, -0.15700000000000003px);
+  width: 20px;
+  height: 21px;
+  display: block;
+  position: absolute;
+  top: 17px;
+  left: 161px;
+}
+.paymenticonspng2 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/paymenticonspng.png") 0px 0px / 250px 23px no-repeat;
+  transform: translate(0.32800000000000296px, -0.25px);
+  width: 250px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 83px;
+  left: 58px;
+}
+.div83 {
+  transform: translate(0px, -0.06300000000000239px);
+  height: 35px;
+  display: block;
+  position: absolute;
+  top: 106px;
+  left: 0px;
+  right: 0px;
+}
+.freeshippng2 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/freeshippng.png") 0px 0px / 27px 15px no-repeat;
+  transform: translate(-0.07899999999999352px, -0.015999999999998238px);
+  width: 27px;
+  height: 15px;
+  display: block;
+  position: absolute;
+  top: 18px;
+  left: 103px;
+}
+.freeShipping3 {
+  position: absolute;
+  top: 15px;
+  left: 133px;
+  width: 132px;
+  height: 20px;
+  transform: translate(-0.07900000000000773px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__db4Zn {
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(205, 0, 0, 1);
+}
+.div84 {
+  background: rgba(251, 251, 243, 1);
+  box-shadow: inset 0px 0px 0px 5px rgba(197, 197, 176, 0.479);
+  transform: translate(0.3120000000000118px, 0px);
+  height: 749px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 948px;
+  right: 15px;
+  border-radius: 5px;
+}
+.form3 {
+  width: 367px;
+  height: 265px;
+  display: block;
+  position: absolute;
+  top: 35px;
+  left: 35px;
+}
+.single {
+  position: absolute;
+  top: 7px;
+  left: 139px;
+  width: 89px;
+  height: 35px;
+  transform: translate(0.17099999999999227px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__nCgnx {
+  display: block;
+  font-size: 35px;
+  text-align: center;
+  text-transform: capitalize;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 50px;
+  color: rgba(79, 73, 54, 1);
+}
+.getyourvitamin1Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/getyourvitamin1Png.png") 0px 0px / 47px 170px no-repeat;
+  transform: translate(-0.20400000000000773px, 0px);
+  width: 48px;
+  height: 170px;
+  display: block;
+  position: absolute;
+  top: 65px;
+  left: 160px;
+}
+.div85 {
+  height: 129px;
+  display: block;
+  position: absolute;
+  top: 265px;
+  left: 0px;
+  right: 0px;
+}
+.chooseFlavor2 {
+  position: absolute;
+  top: 1px;
+  left: 136px;
+  width: 95px;
+  height: 17px;
+  transform: translate(0.4060000000000059px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__gsXqg {
+  display: block;
+  font-size: 17px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.ul7 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 40px;
+  left: 92px;
+  flex-direction: row;
+}
+.ul7 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-left: calc(0px - 2.64px);
+  width: calc(100% + 2.64px);
+}
+.ul7 > :global(.__wab_flex-container) > *,
+.ul7 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.ul7 > :global(.__wab_flex-container) > picture > img,
+.ul7 > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 2.64px;
+}
+.li15 {
+  width: 90px;
+  height: 89px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.div86 {
+  transform: translate(-0.5px, 0px);
+  width: 55px;
+  height: 55px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 18px;
+  border-radius: 27.5px;
+}
+.span5 {
+  background: rgba(249, 84, 126, 1);
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  border-radius: 22.5px;
+}
+.i10 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text___3JaP {
+  display: block;
+  font-size: 17px;
+  text-align: center;
+  font-family: "Font Awesome 5 Free";
+  letter-spacing: 0em;
+  line-height: 17px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.strawberry3 {
+  position: absolute;
+  top: 71px;
+  left: 9px;
+  width: 74px;
+  height: 17px;
+  transform: translate(-0.4540000000000006px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___302Uy {
+  display: block;
+  font-size: 17px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 19px;
+  color: rgba(79, 73, 54, 1);
+}
+.li16 {
+  width: 90px;
+  height: 89px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+}
+.div87 {
+  transform: translate(-0.5px, 0px);
+  width: 55px;
+  height: 55px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 18px;
+  border-radius: 27.5px;
+}
+.span6 {
+  background: rgba(244, 198, 156, 1);
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  border-radius: 22.5px;
+}
+.vanilla3 {
+  position: absolute;
+  top: 71px;
+  left: 22px;
+  width: 46px;
+  height: 17px;
+  transform: translate(0.25px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__yindt {
+  display: block;
+  font-size: 17px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 19px;
+  color: rgba(79, 73, 54, 1);
+}
+.div88 {
+  transform: translate(0.32800000000000296px, 0px);
+  width: 250px;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 429px;
+  left: 58px;
+}
+.whatsIncluded1Device {
+  position: absolute;
+  top: 1px;
+  left: 36px;
+  width: 178px;
+  height: 17px;
+  transform: translate(0.4059999999999988px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__httFx {
+  display: block;
+  font-size: 17px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.li17 {
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 28px;
+  left: 0px;
+  right: 0px;
+}
+.i11 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 2px;
+  left: 0px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text__j6Gbq {
+  display: block;
+  font-size: 15px;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 15px;
+  color: rgba(63, 58, 41, 1);
+  position: relative;
+}
+.fuelDeviceEnergyEnhancing {
+  position: absolute;
+  top: 2px;
+  left: 23px;
+  right: 42px;
+  height: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__mkZhT {
+  display: block;
+  font-size: 15px;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(63, 58, 41, 1);
+}
+.for2000 {
+  position: absolute;
+  top: 535px;
+  left: 132px;
+  width: 103px;
+  height: 25px;
+  transform: translate(0.04599999999999227px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___91AoQ {
+  display: block;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 50px;
+}
+.div89 {
+  height: 106px;
+  display: block;
+  position: absolute;
+  top: 573px;
+  left: 0px;
+  right: 0px;
+}
+.div90 {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: inset 0px 0px 0px 3px rgba(212, 212, 200, 1);
+  height: 56px;
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 0px;
+  right: 238px;
+  border-radius: 5px;
+}
+._9 {
+  position: absolute;
+  top: 20px;
+  left: 22px;
+  width: 6px;
+  height: 16px;
+  transform: translate(-0.20400000000000063px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__pzUcc {
+  display: block;
+  font-size: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(102, 102, 102, 1);
+}
+.input3 {
+  background: rgba(255, 255, 255, 1);
+  transform: translate(-0.48499999999999943px, 0px);
+  height: 32px;
+  display: block;
+  position: absolute;
+  top: 12px;
+  left: 37px;
+  right: 36px;
+}
+.div91 {
+  width: 52px;
+  height: 30px;
+  display: block;
+  position: absolute;
+  top: 1px;
+  left: 2px;
+  overflow: hidden;
+}
+._10 {
+  position: absolute;
+  top: 2px;
+  left: 21px;
+  width: 9px;
+  height: 25px;
+  transform: translate(0.31200000000000117px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__duo1E {
+  display: block;
+  font-size: 25px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(102, 102, 102, 1);
+}
+._11 {
+  position: absolute;
+  top: 20px;
+  left: 100px;
+  width: 8px;
+  height: 16px;
+  transform: translate(0.1869999999999976px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__yV9Yz {
+  display: block;
+  font-size: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0em;
+  line-height: 24px;
+  color: rgba(102, 102, 102, 1);
+}
+.button6 {
+  background: rgba(141, 189, 59, 1);
+  transform: translate(0.32800000000000296px, 0px);
+  height: 55px;
+  display: block;
+  position: absolute;
+  top: 10px;
+  left: 138px;
+  right: 4px;
+  border-radius: 5px;
+}
+.addToCart3 {
+  position: absolute;
+  top: 17px;
+  left: 43px;
+  width: 114px;
+  height: 20px;
+  transform: translate(0.2809999999999988px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__hPdrg {
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0em;
+  line-height: 53px;
+  color: rgba(255, 255, 255, 1);
+}
+.handpng3 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/handpng.png") 0px 0px / 20px 21px no-repeat;
+  transform: translate(0.375px, -0.15700000000000003px);
+  width: 20px;
+  height: 21px;
+  display: block;
+  position: absolute;
+  top: 17px;
+  left: 161px;
+}
+.paymenticonspng3 {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/paymenticonspng.png") 0px 0px / 250px 23px no-repeat;
+  transform: translate(0.32800000000000296px, -0.25px);
+  width: 250px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 83px;
+  left: 58px;
+}
+.div92 {
+  background: rgba(63, 58, 41, 1);
+  width: 1440px;
+  height: 99px;
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 6967px;
+}
+.div93 {
+  width: 1280px;
+  height: 1px;
+  display: block;
+  position: absolute;
+  top: 30px;
+  left: 80px;
+}
+._2022CopyrightBySparq {
+  position: absolute;
+  top: 18px;
+  left: 0px;
+  width: 179px;
+  height: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__kFJnm {
+  display: block;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+}
+.sparqLogoFinal0311Png {
+  background: url("/plasmic/copy_of_blog_lifehacksplus_com/images/sparqLogoFinal0311Png.png") 0px 0px / 175px 32px no-repeat;
+  transform: translate(-0.5px, 0px);
+  width: 175px;
+  height: 33px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 553px;
+}
+.privacyPolicyTermsConditions {
+  position: absolute;
+  top: 19px;
+  right: 2px;
+  width: 249px;
+  height: 16px;
+  transform: translate(-0.25px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__x0MlH {
+  display: block;
+  font-size: undefinedpx;
+  text-align: right;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+}
