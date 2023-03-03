@@ -35,7 +35,7 @@ function DisposableCollection4() {
   );
 }
 
-export default DisposableCollection4{} {
+export default DisposableCollection4;{} {
   return (
     <>
     <script type="text/javascript">
