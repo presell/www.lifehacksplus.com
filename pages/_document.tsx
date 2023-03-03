@@ -5,10 +5,11 @@ export default class CustomDocument extends Document {
         return (
         <Html>
             <Head> 
-<script src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=RnfsUY"></script>
             </Head>
             
             <body>
+            <script src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=RnfsUY"></script>
+
                 <Main />
                 <NextScript />
             </body>
