@@ -35,15 +35,5 @@ function DisposableCollection4() {
   );
 }
 
-export default DisposableCollection4;{} {
-  return (
-    <>
-    <script type="text/javascript">
-    document.querySelector('.klaviyo_form_trigger').addEventListener('click', function (){
-      window._klOnsite = window._klOnsite || []}
-      window._klOnsite.push(['openForm', 'RnfsUY']);
-    );
-  </script>
-    </>
-  )
-}
+export default DisposableCollection4;
+
