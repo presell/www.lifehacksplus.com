@@ -6,7 +6,7 @@ class CustomDocument extends Document {
             <Html>
                 <Head>
                     <script
-                        async
+        
                         src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=HY4rVr"
                     />
                 </Head>
