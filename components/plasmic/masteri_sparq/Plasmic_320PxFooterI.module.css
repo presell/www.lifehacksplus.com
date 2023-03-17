@@ -1,0 +1,13 @@
+.divshopifySectionFooter3 {
+  background: rgba(215, 208, 190, 1);
+  transform: translate(0px, -0.2820000000001528px);
+  width: 320px;
+  height: 813px;
+  display: block;
+  position: relative;
+}
+._320PxFooter:global(.__wab_instance) {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}

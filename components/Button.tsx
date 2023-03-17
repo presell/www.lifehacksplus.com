@@ -2,7 +2,7 @@ import * as React from "react";
 import {
   PlasmicButton,
   DefaultButtonProps
-} from "./plasmic/copy_of_blog_lifehacksplus_com/PlasmicButton";
+} from "./plasmic/masteri_sparq/PlasmicButton";
 import {
   ButtonRef,
   HtmlAnchorOnlyProps,

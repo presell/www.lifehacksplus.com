@@ -1,0 +1,12 @@
+.div225 {
+  background: rgba(147, 137, 106, 1);
+  width: 320px;
+  height: 28px;
+  display: block;
+  position: relative;
+}
+._320PxAnnouncementBarIi:global(.__wab_instance) {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}

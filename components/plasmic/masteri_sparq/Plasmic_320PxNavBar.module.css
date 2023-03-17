@@ -1,0 +1,31 @@
+.div229 {
+  width: 320px;
+  height: 66px;
+  display: block;
+  position: relative;
+}
+.svg16 {
+  width: 20px;
+  height: 30px;
+  display: block;
+  position: absolute;
+  top: 18px;
+  left: 23px;
+  overflow: hidden;
+}
+.svg {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #3d4246;
+  width: 20px;
+  height: 30px;
+  top: 0px;
+  left: 0px;
+  display: none;
+}
+@media (min-width: 320px) {
+  .svg {
+    display: block;
+  }
+}

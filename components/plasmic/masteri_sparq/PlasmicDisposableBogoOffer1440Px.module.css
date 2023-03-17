@@ -1,0 +1,378 @@
+.divprodarea {
+  width: 761px;
+  height: 519px;
+  display: block;
+  background: #ffffff;
+  position: relative;
+  border-radius: 0px;
+}
+.div71 {
+  width: 679px;
+  height: 423px;
+  display: block;
+  position: absolute;
+  top: 48px;
+  left: 41px;
+}
+.div72 {
+  transform: translate(0.006999999999999673px, 0px);
+  width: 213px;
+  height: 423px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 7px;
+}
+.prodimagepng {
+  background: url("/plasmic/masteri_sparq/images/prodimagepng.png") 0px 0px / 176px 422px no-repeat;
+  width: 177px;
+  height: 423px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 18px;
+  overflow: hidden;
+}
+.div73 {
+  background: rgba(253, 204, 3, 1);
+  transform: translate(-0.391px, 0.11699999999999022px);
+  width: 180px;
+  height: 70px;
+  display: block;
+  position: absolute;
+  top: 176px;
+  left: 15px;
+  border-radius: 50px;
+}
+.buy2Get1 {
+  position: absolute;
+  top: 12px;
+  left: 30px;
+  width: 121px;
+  height: 26px;
+  transform: translate(-0.06299999999999883px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__ne1DJ {
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+}
+.free {
+  position: absolute;
+  top: 38px;
+  left: 64px;
+  width: 53px;
+  height: 27px;
+  transform: translate(-0.1880000000000024px, -0.5px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__rHt4L {
+  display: block;
+  font-size: 21px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+}
+.div74 {
+  transform: translate(0.2259999999999991px, 0.375px);
+  width: 439px;
+  height: 412px;
+  display: block;
+  position: absolute;
+  top: 5px;
+  left: 233px;
+}
+.specialOffer {
+  position: absolute;
+  top: 0px;
+  left: 65px;
+  width: 310px;
+  height: 50px;
+  transform: translate(-0.3050000000000068px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__vA4L {
+  display: block;
+  font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(246, 41, 41, 1);
+}
+.freeVitaminAir {
+  position: absolute;
+  top: 55px;
+  left: 109px;
+  width: 222px;
+  height: 31px;
+  transform: translate(-0.4539999999999935px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__jcjJx {
+  display: block;
+  font-size: 24px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(32, 36, 40, 1);
+}
+.moneyBackGuaranteeBetterFlavorHarderHitsOrYourMoneyBack {
+  position: absolute;
+  top: 104px;
+  left: 33px;
+  width: 372px;
+  height: 47px;
+  transform: translate(0.4209999999999994px, -0.5px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__dx4Nt {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 26px;
+  color: rgba(0, 0, 0, 1);
+}
+.div75 {
+  width: 393px;
+  height: 91px;
+  display: block;
+  position: absolute;
+  top: 215px;
+  left: 23px;
+}
+.chooseFlavor {
+  position: absolute;
+  top: 36px;
+  right: 235px;
+  width: 132px;
+  height: 19px;
+  transform: translate(-0.41499999999999915px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___6REFa {
+  display: block;
+  font-size: 15px;
+  text-align: right;
+  text-transform: uppercase;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+}
+.div76 {
+  transform: translate(-0.48500000000001364px, 0px);
+  width: 215px;
+  height: 91px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 171px;
+}
+.div77 {
+  transform: translate(0.3819999999999997px, 0px);
+  width: 90px;
+  height: 91px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 10px;
+}
+.div78 {
+  background: rgba(249, 85, 125, 1);
+  width: 60px;
+  height: 60px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 15px;
+  overflow: hidden;
+  border-radius: 60px;
+}
+.div79 {
+  box-shadow: inset 0px 0px 0px 5px #ffffff;
+  width: 54px;
+  height: 54px;
+  display: block;
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  border-radius: 54px;
+}
+@media (min-width: 768px) {
+  .div79 {
+    display: block;
+  }
+}
+.strawberry {
+  position: absolute;
+  top: 70px;
+  left: 2px;
+  width: 86px;
+  height: 21px;
+  transform: translate(0.31199999999999983px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__fpoW {
+  display: block;
+  font-size: 16px;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(98, 98, 98, 1);
+}
+.div80 {
+  transform: translate(-0.4689999999999941px, 0px);
+  width: 90px;
+  height: 91px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 115px;
+}
+.div81 {
+  background: rgba(243, 200, 156, 1);
+  width: 60px;
+  height: 60px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 15px;
+  overflow: hidden;
+  border-radius: 60px;
+}
+.div82 {
+  background: rgba(243, 200, 156, 1);
+  box-shadow: inset 0px 0px 0px 5px rgba(255, 255, 255, 1);
+  width: 54px;
+  height: 54px;
+  display: block;
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  border-radius: 54px;
+}
+.vanila {
+  position: absolute;
+  top: 70px;
+  left: 21px;
+  width: 48px;
+  height: 21px;
+  transform: translate(0.11700000000000088px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__eAsQd {
+  display: block;
+  font-size: 17px;
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(98, 98, 98, 1);
+  padding-right: 0px;
+}
+.div83 {
+  width: 379px;
+  height: 98px;
+  display: block;
+  position: absolute;
+  top: 314px;
+  left: 30px;
+}
+.adifferance {
+  background: rgba(243, 85, 0, 1);
+  width: 379px;
+  height: 66px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 3px;
+}
+@media (min-width: 768px) {
+  .adifferance {
+    display: none;
+  }
+}
+.feelTheDifference {
+  position: absolute;
+  top: 20px;
+  left: 56px;
+  width: 234px;
+  height: 27px;
+  transform: translate(-0.4299999999999997px, 0.43700000000000117px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___5Cmid {
+  display: block;
+  font-size: 21px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+}
+.fingericonpng {
+  background: url("/plasmic/masteri_sparq/images/fingericonpng.png") 0px 0px / 22px 14px no-repeat;
+  transform: translate(-0.14100000000001955px, -0.3520000000000003px);
+  width: 22px;
+  height: 15px;
+  display: block;
+  position: absolute;
+  top: 26px;
+  left: 301px;
+  overflow: hidden;
+}
+.paymentcardpng {
+  background: url("/plasmic/masteri_sparq/images/paymentcardpng.png") 0px 0px / 240px 24px no-repeat;
+  transform: translate(0.21800000000000352px, -0.06300000000000239px);
+  width: 240px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 74px;
+  left: 69px;
+  overflow: hidden;
+}

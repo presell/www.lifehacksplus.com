@@ -1,0 +1,91 @@
+.nav {
+  background: #ffcd57;
+  width: 100%;
+  height: 60px;
+  display: block;
+  position: relative;
+  min-width: 0;
+}
+.div2 {
+  height: 60px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 20px;
+  right: 20px;
+}
+.label {
+  background: rgba(63, 58, 41, 1);
+  transform: translate(-0.09400000000005093px, 0px);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: 1030px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 25.468px 20px 30px;
+}
+.text__t87KR {
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 900;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+  height: auto;
+}
+.specialOfferClaimThisOneTimeOfferTryVitaminAirAtAFractionOfTheRegularPriceToday {
+  position: absolute;
+  top: 20px;
+  left: 90px;
+  width: auto;
+  height: 22px;
+  transform: translate(-0.29699999999999704px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__lod1U {
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0em;
+  line-height: 22px;
+  color: #3f3a29;
+  width: 100%;
+  margin-bottom: 0px;
+  min-width: 0;
+}
+.freeShipping {
+  position: absolute;
+  top: 20px;
+  left: 1240px;
+  width: 133px;
+  height: 22px;
+  transform: translate(0.015000000000100044px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__gnRs1 {
+  display: block;
+  font-size: 22px;
+  text-align: center;
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0em;
+  line-height: 22px;
+  color: rgba(63, 58, 41, 1);
+}
+@media (min-width: 768px) {
+  .text__gnRs1 {
+    display: none;
+  }
+}

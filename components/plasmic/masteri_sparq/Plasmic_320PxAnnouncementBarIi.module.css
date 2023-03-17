@@ -1,0 +1,11 @@
+.div226 {
+  width: 320px;
+  height: 28px;
+  display: block;
+  position: relative;
+}
+._320PxAnnouncementBarI:global(.__wab_instance) {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}

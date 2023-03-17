@@ -1,0 +1,30 @@
+.div74 {
+  width: 412px;
+  height: 66px;
+  display: block;
+  position: relative;
+}
+.svg4 {
+  width: 20px;
+  height: 30px;
+  display: block;
+  position: absolute;
+  top: 18px;
+  left: 23px;
+  overflow: hidden;
+}
+.link {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: flex;
+}
+.svg {
+  object-fit: cover;
+  max-width: 100%;
+  color: #3d4246;
+  width: 20px;
+  height: 30px;
+  display: block;
+  flex-shrink: 0;
+}

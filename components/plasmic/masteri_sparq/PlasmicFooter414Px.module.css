@@ -1,0 +1,611 @@
+.divshopifySectionFooter {
+  background: rgba(215, 208, 190, 1);
+  transform: translate(0px, -0.04699999999957072px);
+  width: 412px;
+  height: 813px;
+  display: block;
+  position: relative;
+}
+.div62 {
+  width: 412px;
+  height: 778px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.footerLogopng {
+  background: url("/plasmic/masteri_sparq/images/footerLogopng.png") 0px 0px / 109px 92px no-repeat;
+  transform: translate(-0.5px, 0px);
+  width: 109px;
+  height: 92px;
+  display: block;
+  position: absolute;
+  top: 59px;
+  left: 152px;
+}
+.div63 {
+  width: 382px;
+  height: 567px;
+  display: block;
+  position: absolute;
+  top: 211px;
+  left: 15px;
+}
+.div64 {
+  width: 382px;
+  height: 385px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.div65 {
+  height: 215px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+.company {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  width: 71px;
+  height: 17px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___5CYiJ {
+  display: block;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 18px;
+  color: rgba(128, 119, 87, 1);
+}
+.ul {
+  width: 352px;
+  height: 170px;
+  display: block;
+  position: absolute;
+  top: 45px;
+  left: 15px;
+}
+.about {
+  position: absolute;
+  top: 7px;
+  left: 0px;
+  width: 37px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__npeXw {
+  display: block;
+  font-size: 13px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.press {
+  position: absolute;
+  top: 32px;
+  left: 0px;
+  width: 34px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__tbI3X {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.howItWorks {
+  position: absolute;
+  top: 57px;
+  left: 0px;
+  width: 80px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___7Zrkl {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.contact {
+  position: absolute;
+  top: 82px;
+  left: 0px;
+  width: 48px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__aQ2DM {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.brandAmbassador {
+  position: absolute;
+  top: 107px;
+  left: 0px;
+  width: 116px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__pL1T {
+  display: block;
+  font-size: 13px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.becomeASeller {
+  position: absolute;
+  top: 132px;
+  left: 0px;
+  width: 102px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___3B8Pk {
+  display: block;
+  font-size: 13px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.philosophy {
+  position: absolute;
+  top: 7px;
+  left: 196px;
+  width: 67px;
+  height: 16px;
+  transform: translate(0.2810000000000059px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___8QuP4 {
+  display: block;
+  font-size: 13px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.philanthropy {
+  position: absolute;
+  top: 32px;
+  left: 196px;
+  width: 76px;
+  height: 16px;
+  transform: translate(0.2810000000000059px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__pR768 {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.helpFaQs {
+  position: absolute;
+  top: 57px;
+  left: 196px;
+  width: 66px;
+  height: 16px;
+  transform: translate(0.2810000000000059px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___0F4EF {
+  display: block;
+  font-size: 13px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.div66 {
+  height: 120px;
+  display: block;
+  position: absolute;
+  top: 215px;
+  left: 0px;
+  right: 191px;
+}
+.products {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  width: 77px;
+  height: 17px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__zcPx {
+  display: block;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 18px;
+  color: rgba(128, 119, 87, 1);
+}
+.ul2 {
+  width: 161px;
+  height: 75px;
+  display: block;
+  position: absolute;
+  top: 45px;
+  left: 15px;
+}
+.rechargeable {
+  position: absolute;
+  top: 7px;
+  left: 0px;
+  width: 85px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__ldikS {
+  display: block;
+  font-size: 13px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.disposable {
+  position: absolute;
+  top: 32px;
+  left: 0px;
+  width: 68px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__svWzi {
+  display: block;
+  font-size: 13px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.giftCards {
+  position: absolute;
+  top: 57px;
+  left: 0px;
+  width: 60px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__nIfQ9 {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.div67 {
+  height: 170px;
+  display: block;
+  position: absolute;
+  top: 215px;
+  left: 191px;
+  right: 0px;
+}
+.legal {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  width: 44px;
+  height: 17px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__b2Ndt {
+  display: block;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 18px;
+  color: rgba(128, 119, 87, 1);
+}
+.ul3 {
+  width: 161px;
+  height: 125px;
+  display: block;
+  position: absolute;
+  top: 45px;
+  left: 15px;
+}
+.termsOfUse {
+  position: absolute;
+  top: 7px;
+  left: 0px;
+  width: 82px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__p5Eai {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.privacyPolicy {
+  position: absolute;
+  top: 32px;
+  left: 0px;
+  width: 83px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__sgjPg {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.shipping {
+  position: absolute;
+  top: 57px;
+  left: 0px;
+  width: 54px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__waHVm {
+  display: block;
+  font-size: 13px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.returnPolicy {
+  position: absolute;
+  top: 82px;
+  left: 0px;
+  width: 79px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__lvnUj {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.warranty {
+  position: absolute;
+  top: 107px;
+  left: 0px;
+  width: 54px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___7MaeV {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.div68 {
+  width: 382px;
+  height: 142px;
+  display: block;
+  position: absolute;
+  top: 425px;
+  left: 0px;
+}
+.div69 {
+  height: 142px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+.followUs {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  width: 81px;
+  height: 17px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__puQ8U {
+  display: block;
+  font-size: 13px;
+  text-transform: uppercase;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 18px;
+  color: rgba(128, 119, 87, 1);
+}
+.ul4 {
+  width: 352px;
+  height: 38px;
+  display: block;
+  position: absolute;
+  top: 45px;
+  left: 15px;
+}
+.freeBox__hxGim {
+  background: rgba(148, 138, 106, 1);
+  width: 33px;
+  height: 33px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 3px;
+  overflow: hidden;
+}
+.svg__mUeWr {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #d9d2c0;
+  width: 33px;
+  height: 33px;
+  display: block;
+  top: 0px;
+  left: 0px;
+}
+.svg2 {
+  background: rgba(148, 138, 106, 1);
+  transform: translate(0.3119999999999976px, 0px);
+  width: 33px;
+  height: 33px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 57px;
+  overflow: hidden;
+}
+.svg__nPeCw {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #d9d2c0;
+  width: 33px;
+  height: 33px;
+  display: block;
+  top: 0px;
+  left: 0px;
+}
+.svg3 {
+  background: rgba(148, 138, 106, 1);
+  transform: translate(-0.375px, 0px);
+  width: 33px;
+  height: 33px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 112px;
+  overflow: hidden;
+}
+.svg__jrPc {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #d9d2c0;
+  width: 33px;
+  height: 33px;
+  display: block;
+  top: 0px;
+  left: 0px;
+}
+.shopifySecureBadgeLightShadowpng {
+  background: url("/plasmic/masteri_sparq/images/shopifySecureBadgeLightShadowpng.png") 0px 0px / 102px 44px no-repeat;
+  width: 102px;
+  height: 44px;
+  display: block;
+  position: absolute;
+  top: 98px;
+  left: 15px;
+}

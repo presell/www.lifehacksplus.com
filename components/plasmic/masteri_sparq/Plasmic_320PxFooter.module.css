@@ -1,0 +1,616 @@
+.div216 {
+  width: 320px;
+  height: 778px;
+  display: block;
+  position: relative;
+}
+.footerLogopng3 {
+  background: url("/plasmic/masteri_sparq/images/footerLogopng.png") 0px 0px / 109px 92px no-repeat;
+  transform: translate(-0.5px, 0px);
+  width: 109px;
+  height: 92px;
+  display: block;
+  position: absolute;
+  top: 59px;
+  left: 106px;
+}
+.div217 {
+  width: 290px;
+  height: 567px;
+  display: block;
+  position: absolute;
+  top: 211px;
+  left: 15px;
+}
+.div218 {
+  width: 290px;
+  height: 385px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.div219 {
+  height: 215px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+.company3 {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  width: 71px;
+  height: 17px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__icBu {
+  display: block;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 18px;
+  color: rgba(128, 119, 87, 1);
+}
+.ul11 {
+  width: 260px;
+  height: 170px;
+  display: block;
+  position: absolute;
+  top: 45px;
+  left: 15px;
+}
+.about3 {
+  position: absolute;
+  top: 7px;
+  left: 0px;
+  width: 37px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__rDnIh {
+  display: block;
+  font-size: 13px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.press3 {
+  position: absolute;
+  top: 32px;
+  left: 0px;
+  width: 34px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__opIqs {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.howItWorks3 {
+  position: absolute;
+  top: 57px;
+  left: 0px;
+  width: 80px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__nrDpG {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.contact3 {
+  position: absolute;
+  top: 82px;
+  left: 0px;
+  width: 48px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__ksBlq {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.brandAmbassador3 {
+  position: absolute;
+  top: 107px;
+  left: 0px;
+  width: 116px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__u0Hj4 {
+  display: block;
+  font-size: 13px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.becomeASeller3 {
+  position: absolute;
+  top: 132px;
+  left: 0px;
+  width: 102px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__kqFk4 {
+  display: block;
+  font-size: 13px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.philosophy3 {
+  position: absolute;
+  top: 7px;
+  left: 150px;
+  width: 67px;
+  height: 16px;
+  transform: translate(0.2810000000000059px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__i03V {
+  display: block;
+  font-size: 13px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.philanthropy3 {
+  position: absolute;
+  top: 32px;
+  left: 150px;
+  width: 76px;
+  height: 16px;
+  transform: translate(0.2810000000000059px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__qgyMw {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.helpFaQs3 {
+  position: absolute;
+  top: 57px;
+  left: 150px;
+  width: 66px;
+  height: 16px;
+  transform: translate(0.2810000000000059px, 0px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__xQgd0 {
+  display: block;
+  font-size: 13px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.div220 {
+  height: 120px;
+  display: block;
+  position: absolute;
+  top: 215px;
+  left: 0px;
+  right: 145px;
+}
+.products3 {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  width: 77px;
+  height: 17px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__aKjJm {
+  display: block;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 18px;
+  color: rgba(128, 119, 87, 1);
+}
+.ul12 {
+  width: 115px;
+  height: 75px;
+  display: block;
+  position: absolute;
+  top: 45px;
+  left: 15px;
+}
+.rechargeable3 {
+  position: absolute;
+  top: 7px;
+  left: 0px;
+  width: 85px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__fWpKp {
+  display: block;
+  font-size: 13px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.disposable3 {
+  position: absolute;
+  top: 32px;
+  left: 0px;
+  width: 68px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__amt77 {
+  display: block;
+  font-size: 13px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.giftCards3 {
+  position: absolute;
+  top: 57px;
+  left: 0px;
+  width: 60px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text___1T8A {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.div221 {
+  height: 170px;
+  display: block;
+  position: absolute;
+  top: 215px;
+  left: 145px;
+  right: 0px;
+}
+.legal3 {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  width: 44px;
+  height: 17px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__vEo7A {
+  display: block;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 18px;
+  color: rgba(128, 119, 87, 1);
+}
+.ul13 {
+  width: 115px;
+  height: 125px;
+  display: block;
+  position: absolute;
+  top: 45px;
+  left: 15px;
+}
+.termsOfUse3 {
+  position: absolute;
+  top: 7px;
+  left: 0px;
+  width: 82px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__quF3Y {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.privacyPolicy3 {
+  position: absolute;
+  top: 32px;
+  left: 0px;
+  width: 83px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__lq4Zk {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.shipping3 {
+  position: absolute;
+  top: 57px;
+  left: 0px;
+  width: 54px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__bx8Sh {
+  display: block;
+  font-size: 13px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.returnPolicy3 {
+  position: absolute;
+  top: 82px;
+  left: 0px;
+  width: 79px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__odoKi {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.warranty3 {
+  position: absolute;
+  top: 107px;
+  left: 0px;
+  width: 54px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__fXDoC {
+  display: block;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 20px;
+  color: rgba(128, 119, 87, 1);
+}
+.div222 {
+  width: 290px;
+  height: 142px;
+  display: block;
+  position: absolute;
+  top: 425px;
+  left: 0px;
+}
+.div223 {
+  height: 142px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+.followUs3 {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  width: 81px;
+  height: 17px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text__bWsOl {
+  display: block;
+  font-size: 13px;
+  text-transform: uppercase;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 18px;
+  color: rgba(128, 119, 87, 1);
+}
+.ul14 {
+  width: 260px;
+  height: 38px;
+  display: block;
+  position: absolute;
+  top: 45px;
+  left: 15px;
+}
+.svg13 {
+  background: rgba(148, 138, 106, 1);
+  width: 33px;
+  height: 33px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 3px;
+  overflow: hidden;
+}
+.svg__qYQf {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #d9d2c0;
+  width: 33px;
+  height: 33px;
+  top: 0px;
+  left: 0px;
+  display: none;
+}
+@media (min-width: 320px) {
+  .svg__qYQf {
+    display: block;
+  }
+}
+.svg14 {
+  background: rgba(148, 138, 106, 1);
+  transform: translate(0.3119999999999976px, 0px);
+  width: 33px;
+  height: 33px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 57px;
+  overflow: hidden;
+}
+.svg__sePv7 {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #d9d2c0;
+  width: 33px;
+  height: 33px;
+  top: 0px;
+  left: 0px;
+  display: none;
+}
+@media (min-width: 320px) {
+  .svg__sePv7 {
+    display: block;
+  }
+}
+.svg15 {
+  background: rgba(148, 138, 106, 1);
+  transform: translate(-0.375px, 0px);
+  width: 33px;
+  height: 33px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 112px;
+  overflow: hidden;
+}
+.svg__vRMq {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #d9d2c0;
+  width: 33px;
+  height: 33px;
+  top: 0px;
+  left: 0px;
+  display: none;
+}
+@media (min-width: 320px) {
+  .svg__vRMq {
+    display: block;
+  }
+}
+.shopifySecureBadgeLightShadowpng3 {
+  background: url("/plasmic/masteri_sparq/images/shopifySecureBadgeLightShadowpng.png") 0px 0px / 102px 44px no-repeat;
+  width: 102px;
+  height: 44px;
+  display: block;
+  position: absolute;
+  top: 98px;
+  left: 15px;
+}

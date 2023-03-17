@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "public-files",
@@ -22,807 +22,1580 @@
   "defaultPlasmicDir": "./plasmic",
   "projects": [
     {
-      "projectId": "nfSxZjVucxtfieS23UFsqy",
-      "projectApiToken": "yRgZPBF3wlzTf7uti1XqHaW9v4QXATTuHBFjD2sHbK3pjfiu0lKKr46FSXC5I5gK4FsPbrcZHpSuLk5FT7g",
-      "projectName": "Copy of blog.lifehacksplus.com",
+      "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+      "projectApiToken": "VnViBYZ9u5IroTmn9A3WTNEAMDMNAj0FqPr6sZ1uuG7oxSqJbCJpi48mI4Qh8zxZ2GUQMF8cyEd77kbuYe4Q",
+      "projectName": "MASTERI | SPARQ",
       "version": "latest",
-      "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/plasmic_copy_of_blog_lifehacksplus_com.module.css",
+      "cssFilePath": "plasmic/masteri_sparq/plasmic_masteri_sparq.module.css",
       "components": [
         {
-          "id": "adTFp5pzrGMS",
-          "name": "Homepage",
-          "type": "managed",
-          "projectId": "nfSxZjVucxtfieS23UFsqy",
-          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicHomepage.tsx",
-          "importSpec": {
-            "modulePath": "../pages/home.tsx"
-          },
-          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicHomepage.module.css",
-          "scheme": "blackbox",
-          "componentType": "page"
-        },
-        {
-          "id": "i2dw_YlG0JzBa",
+          "id": "PVcACwPnqF_X",
           "name": "TextInput",
           "type": "managed",
-          "projectId": "nfSxZjVucxtfieS23UFsqy",
-          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicTextInput.tsx",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicTextInput.tsx",
           "importSpec": {
             "modulePath": "TextInput.tsx"
           },
-          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicTextInput.module.css",
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicTextInput.module.css",
           "scheme": "blackbox",
           "componentType": "component",
           "plumeType": "text-input"
         },
         {
-          "id": "BvRJvRINBZCfW",
+          "id": "y9_AztIaP_fj",
           "name": "Button",
           "type": "managed",
-          "projectId": "nfSxZjVucxtfieS23UFsqy",
-          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicButton.tsx",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicButton.tsx",
           "importSpec": {
             "modulePath": "Button.tsx"
           },
-          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicButton.module.css",
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicButton.module.css",
           "scheme": "blackbox",
           "componentType": "component",
           "plumeType": "button"
         },
         {
-          "id": "lyffgFh8zzrDk",
+          "id": "OM0b83QCLrUW",
           "name": "ThankYou",
           "type": "managed",
-          "projectId": "nfSxZjVucxtfieS23UFsqy",
-          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicThankYou.tsx",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicThankYou.tsx",
           "importSpec": {
             "modulePath": "../pages/thank-you.tsx"
           },
-          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicThankYou.module.css",
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicThankYou.module.css",
           "scheme": "blackbox",
           "componentType": "page"
         },
         {
-          "id": "VVH0m4IJoi7p0t",
-          "name": "DisposableCollection",
-          "type": "managed",
-          "projectId": "nfSxZjVucxtfieS23UFsqy",
-          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableCollection.tsx",
-          "importSpec": {
-            "modulePath": "../pages/disposable.tsx"
-          },
-          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableCollection.module.css",
-          "scheme": "blackbox",
-          "componentType": "page"
-        },
-        {
-          "id": "wKI0nlwt3ZT5yO",
-          "name": "DisposableCollection2",
-          "type": "managed",
-          "projectId": "nfSxZjVucxtfieS23UFsqy",
-          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableCollection2.tsx",
-          "importSpec": {
-            "modulePath": "../pages/disposable-2.tsx"
-          },
-          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableCollection2.module.css",
-          "scheme": "blackbox",
-          "componentType": "page"
-        },
-        {
-          "id": "u1uA-aeIoQvLjH",
-          "name": "DisposableCollection3",
-          "type": "managed",
-          "projectId": "nfSxZjVucxtfieS23UFsqy",
-          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableCollection3.tsx",
-          "importSpec": {
-            "modulePath": "../pages/index.tsx"
-          },
-          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableCollection3.module.css",
-          "scheme": "blackbox",
-          "componentType": "page"
-        },
-        {
-          "id": "ZtACbyoZIeOB0F",
-          "name": "DisposableInfo",
-          "type": "managed",
-          "projectId": "nfSxZjVucxtfieS23UFsqy",
-          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableInfo.tsx",
-          "importSpec": {
-            "modulePath": "../pages/disposable-info.tsx"
-          },
-          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableInfo.module.css",
-          "scheme": "blackbox",
-          "componentType": "page"
-        },
-        {
-          "id": "j_FPxDBLkN4XNg",
-          "name": "NewPage",
-          "type": "managed",
-          "projectId": "nfSxZjVucxtfieS23UFsqy",
-          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicNewPage.tsx",
-          "importSpec": {
-            "modulePath": "../pages/new-page.tsx"
-          },
-          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicNewPage.module.css",
-          "scheme": "blackbox",
-          "componentType": "page"
-        },
-        {
-          "id": "NnubNq-fWNWlbtT",
-          "name": "NewPage2",
-          "type": "managed",
-          "projectId": "nfSxZjVucxtfieS23UFsqy",
-          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicNewPage2.tsx",
-          "importSpec": {
-            "modulePath": "../pages/new-page-2.tsx"
-          },
-          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicNewPage2.module.css",
-          "scheme": "blackbox",
-          "componentType": "page"
-        },
-        {
-          "id": "c_QmF5P6dvy14Px",
+          "id": "PuaGQn8Cnc2P",
           "name": "Reviews",
           "type": "managed",
-          "projectId": "nfSxZjVucxtfieS23UFsqy",
-          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicReviews.tsx",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicReviews.tsx",
           "importSpec": {
             "modulePath": "Reviews.tsx"
           },
-          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicReviews.module.css",
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicReviews.module.css",
           "scheme": "blackbox",
           "componentType": "component"
         },
         {
-          "id": "pQTaPc4NQmA6IHD",
+          "id": "TyTbxxRcv7JA",
           "name": "AsFeaturedIn",
           "type": "managed",
-          "projectId": "nfSxZjVucxtfieS23UFsqy",
-          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicAsFeaturedIn.tsx",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicAsFeaturedIn.tsx",
           "importSpec": {
             "modulePath": "AsFeaturedIn.tsx"
           },
-          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicAsFeaturedIn.module.css",
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicAsFeaturedIn.module.css",
           "scheme": "blackbox",
           "componentType": "component"
         },
         {
-          "id": "c-kwCUG2omGSmuu",
-          "name": "NewPage22",
+          "id": "e6lEcbqjA-B4",
+          "name": "ReviewCard",
           "type": "managed",
-          "projectId": "nfSxZjVucxtfieS23UFsqy",
-          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicNewPage22.tsx",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicReviewCard.tsx",
           "importSpec": {
-            "modulePath": "../pages/new-page-3.tsx"
+            "modulePath": "ReviewCard.tsx"
           },
-          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicNewPage22.module.css",
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicReviewCard.module.css",
           "scheme": "blackbox",
-          "componentType": "page"
+          "componentType": "component"
         },
         {
-          "id": "gy2erJa9TCe7Yo-",
-          "name": "Blog",
+          "id": "TUdrtJf2IXv-",
+          "name": "SideCta",
           "type": "managed",
-          "projectId": "nfSxZjVucxtfieS23UFsqy",
-          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicBlog.tsx",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicSideCta.tsx",
           "importSpec": {
-            "modulePath": "../pages/new-page-4.tsx"
+            "modulePath": "SideCta.tsx"
           },
-          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicBlog.module.css",
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicSideCta.module.css",
           "scheme": "blackbox",
-          "componentType": "page"
+          "componentType": "component"
         },
         {
-          "id": "PkJ9xK8dLM-CAHB",
-          "name": "DualOffer",
+          "id": "TprVJnSYLAFY",
+          "name": "ArticleNav",
           "type": "managed",
-          "projectId": "nfSxZjVucxtfieS23UFsqy",
-          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDualOffer.tsx",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicArticleNav.tsx",
           "importSpec": {
-            "modulePath": "../pages/dual-offer.tsx"
+            "modulePath": "ArticleNav.tsx"
           },
-          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDualOffer.module.css",
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicArticleNav.module.css",
           "scheme": "blackbox",
-          "componentType": "page"
+          "componentType": "component"
         },
         {
-          "id": "eu-us2cDwaNn",
-          "name": "DisposableCollection4",
+          "id": "EpQ2n61NUxop",
+          "name": "ArticleIntro",
           "type": "managed",
-          "projectId": "nfSxZjVucxtfieS23UFsqy",
-          "renderModuleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableCollection4.tsx",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicArticleIntro.tsx",
+          "importSpec": {
+            "modulePath": "ArticleIntro.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicArticleIntro.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "BC-vwiKgXIJER",
+          "name": "ArticleBody",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicArticleBody.tsx",
+          "importSpec": {
+            "modulePath": "ArticleBody.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicArticleBody.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "kuGFT2-FKgH6d",
+          "name": "NavCwoffer",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicNavCwoffer.tsx",
+          "importSpec": {
+            "modulePath": "NavCwoffer.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicNavCwoffer.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "GZ0R6WVqiMoqZ",
+          "name": "Nav1440CwOffer",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicNav1440CwOffer.tsx",
+          "importSpec": {
+            "modulePath": "Nav1440CwOffer.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicNav1440CwOffer.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "jgIadmQ9AD4-u",
+          "name": "Nav414CwOffer",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicNav414CwOffer.tsx",
+          "importSpec": {
+            "modulePath": "Nav414CwOffer.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicNav414CwOffer.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "ZFsz13Ptv6xwG",
+          "name": "Nav320CwOffer",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicNav320CwOffer.tsx",
+          "importSpec": {
+            "modulePath": "Nav320CwOffer.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicNav320CwOffer.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "o_R3Zpo5Fc9DZ",
+          "name": "NavICwOffer",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicNavICwOffer.tsx",
+          "importSpec": {
+            "modulePath": "NavICwOffer.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicNavICwOffer.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "aae8A4seQLffE",
+          "name": "Collection3Pack1440Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicCollection3Pack1440Px.tsx",
+          "importSpec": {
+            "modulePath": "Collection3Pack1440Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicCollection3Pack1440Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "qON1wLGXxLhvK",
+          "name": "AnnouncementBar1440Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicAnnouncementBar1440Px.tsx",
+          "importSpec": {
+            "modulePath": "AnnouncementBar1440Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicAnnouncementBar1440Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "fuNPxN4Mz6a8R",
+          "name": "NavBar1440Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicNavBar1440Px.tsx",
+          "importSpec": {
+            "modulePath": "NavBar1440Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicNavBar1440Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "7yDDnDCshHrNn",
+          "name": "HeadlineIcons1440Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicHeadlineIcons1440Px.tsx",
+          "importSpec": {
+            "modulePath": "HeadlineIcons1440Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicHeadlineIcons1440Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "D2nJF8AzXyMMY",
+          "name": "SubscriptionImageTextBanner",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicSubscriptionImageTextBanner.tsx",
+          "importSpec": {
+            "modulePath": "SubscriptionImageTextBanner.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicSubscriptionImageTextBanner.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "u5rWtT0YY4XcR",
+          "name": "PromissoryCommitment1440Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicPromissoryCommitment1440Px.tsx",
+          "importSpec": {
+            "modulePath": "PromissoryCommitment1440Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicPromissoryCommitment1440Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "EgxvzUtVYBMDi",
+          "name": "Footer1440Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicFooter1440Px.tsx",
+          "importSpec": {
+            "modulePath": "Footer1440Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicFooter1440Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "8xydCnm9CIOaN",
+          "name": "PureSingle1440Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicPureSingle1440Px.tsx",
+          "importSpec": {
+            "modulePath": "PureSingle1440Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicPureSingle1440Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "X-5GGa12Q1UBv",
+          "name": "MeltSingle1440Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicMeltSingle1440Px.tsx",
+          "importSpec": {
+            "modulePath": "MeltSingle1440Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicMeltSingle1440Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "1XW2gjXMOvjb5",
+          "name": "FuelSingle1440Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicFuelSingle1440Px.tsx",
+          "importSpec": {
+            "modulePath": "FuelSingle1440Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicFuelSingle1440Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "-iDh_LbE9_cuN",
+          "name": "Variety6Pack1440Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicVariety6Pack1440Px.tsx",
+          "importSpec": {
+            "modulePath": "Variety6Pack1440Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicVariety6Pack1440Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "KXaiuxh0XMlvl",
+          "name": "DisposableBogoOffer1440Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicDisposableBogoOffer1440Px.tsx",
+          "importSpec": {
+            "modulePath": "DisposableBogoOffer1440Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicDisposableBogoOffer1440Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "me5Xm7f3OgReD",
+          "name": "AnnouncementBar414Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicAnnouncementBar414Px.tsx",
+          "importSpec": {
+            "modulePath": "AnnouncementBar414Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicAnnouncementBar414Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "fGXhUEdlHzVAB",
+          "name": "NavBar414Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicNavBar414Px.tsx",
+          "importSpec": {
+            "modulePath": "NavBar414Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicNavBar414Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "LIbPMREFofruh",
+          "name": "HeadlineIcons414Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicHeadlineIcons414Px.tsx",
+          "importSpec": {
+            "modulePath": "HeadlineIcons414Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicHeadlineIcons414Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "0H_YF9nXzcED7",
+          "name": "_3Pack414Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_3Pack414Px.tsx",
+          "importSpec": {
+            "modulePath": "_3Pack414Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_3Pack414Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "ZA4C-ox3-lqdz",
+          "name": "PureSingle414Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicPureSingle414Px.tsx",
+          "importSpec": {
+            "modulePath": "PureSingle414Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicPureSingle414Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "BWMj3hPaIIM4a",
+          "name": "MeltSingle414Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicMeltSingle414Px.tsx",
+          "importSpec": {
+            "modulePath": "MeltSingle414Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicMeltSingle414Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "1utSr2T9ypsxV",
+          "name": "FuelSingle414Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicFuelSingle414Px.tsx",
+          "importSpec": {
+            "modulePath": "FuelSingle414Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicFuelSingle414Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "tA3bFheKBFKav",
+          "name": "SubscriptionImageText414Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicSubscriptionImageText414Px.tsx",
+          "importSpec": {
+            "modulePath": "SubscriptionImageText414Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicSubscriptionImageText414Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "hPXUkchYh8lQa",
+          "name": "PromissoryCommitment414Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicPromissoryCommitment414Px.tsx",
+          "importSpec": {
+            "modulePath": "PromissoryCommitment414Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicPromissoryCommitment414Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "1N7tS9KuyaeeL",
+          "name": "Footer414Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicFooter414Px.tsx",
+          "importSpec": {
+            "modulePath": "Footer414Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicFooter414Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "jUIewLqUOGhSy",
+          "name": "CollectionWhole414Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicCollectionWhole414Px.tsx",
+          "importSpec": {
+            "modulePath": "CollectionWhole414Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicCollectionWhole414Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "ylUDKqtbv1J-w",
+          "name": "CollectionWhole414Px2",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicCollectionWhole414Px2.tsx",
+          "importSpec": {
+            "modulePath": "CollectionWhole414Px2.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicCollectionWhole414Px2.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "rMAe3i2q2RQu7",
+          "name": "CollectionWhole414Px3",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicCollectionWhole414Px3.tsx",
+          "importSpec": {
+            "modulePath": "CollectionWhole414Px3.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicCollectionWhole414Px3.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "FynkGdTOvgCs2",
+          "name": "_414BogoOffer",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_414BogoOffer.tsx",
+          "importSpec": {
+            "modulePath": "_414BogoOffer.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_414BogoOffer.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "_fAaIMpBipw-Y",
+          "name": "Variety414Px",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicVariety414Px.tsx",
+          "importSpec": {
+            "modulePath": "Variety414Px.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicVariety414Px.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "XG5Rt2JU6Twy3",
+          "name": "_320PxAccouncementBar",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_320PxAccouncementBar.tsx",
+          "importSpec": {
+            "modulePath": "_320PxAccouncementBar.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_320PxAccouncementBar.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "j8fpc21nEqIdr",
+          "name": "_320PxNavBar",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_320PxNavBar.tsx",
+          "importSpec": {
+            "modulePath": "_320PxNavBar.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_320PxNavBar.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "-qv4035hzrt9G",
+          "name": "_320PxImageIcons",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_320PxImageIcons.tsx",
+          "importSpec": {
+            "modulePath": "_320PxImageIcons.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_320PxImageIcons.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "DPS3rZoEyBnNo",
+          "name": "_320Px3Pack",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_320Px3Pack.tsx",
+          "importSpec": {
+            "modulePath": "_320Px3Pack.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_320Px3Pack.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "B63qcRWpR0XmJ",
+          "name": "_320PxPure",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_320PxPure.tsx",
+          "importSpec": {
+            "modulePath": "_320PxPure.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_320PxPure.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "wWxDUFEeKRkFW",
+          "name": "_320PxMelt",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_320PxMelt.tsx",
+          "importSpec": {
+            "modulePath": "_320PxMelt.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_320PxMelt.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "k_ZR2YmJHJoLI",
+          "name": "_320PxFuel",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_320PxFuel.tsx",
+          "importSpec": {
+            "modulePath": "_320PxFuel.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_320PxFuel.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "ocU3wjNEFTscH",
+          "name": "_320PxVariety",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_320PxVariety.tsx",
+          "importSpec": {
+            "modulePath": "_320PxVariety.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_320PxVariety.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "QakTQ9O5_fV8M",
+          "name": "_414PxVariety",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_414PxVariety.tsx",
+          "importSpec": {
+            "modulePath": "_414PxVariety.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_414PxVariety.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "Eda-axjeANcFE",
+          "name": "_320XSubscriptionImage",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_320XSubscriptionImage.tsx",
+          "importSpec": {
+            "modulePath": "_320XSubscriptionImage.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_320XSubscriptionImage.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "d3W0ENAOcNaOe",
+          "name": "_320PxCommitment",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_320PxCommitment.tsx",
+          "importSpec": {
+            "modulePath": "_320PxCommitment.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_320PxCommitment.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "uG3j3zIrAJz3e",
+          "name": "_320PxFooter",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_320PxFooter.tsx",
+          "importSpec": {
+            "modulePath": "_320PxFooter.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_320PxFooter.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "t0MfdOHLxYyIb",
+          "name": "_320PxAnnouncementBarI",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_320PxAnnouncementBarI.tsx",
+          "importSpec": {
+            "modulePath": "_320PxAnnouncementBarI.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_320PxAnnouncementBarI.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "tEyzV0RFqLV4T",
+          "name": "_320PxNavBarI",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_320PxNavBarI.tsx",
+          "importSpec": {
+            "modulePath": "_320PxNavBarI.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_320PxNavBarI.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "lUwyfzEUrpopJ",
+          "name": "_320PxCwOfferBogo",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_320PxCwOfferBogo.tsx",
+          "importSpec": {
+            "modulePath": "_320PxCwOfferBogo.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_320PxCwOfferBogo.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "H9F42oltm8Qyu",
+          "name": "_320PxFooterI",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_320PxFooterI.tsx",
+          "importSpec": {
+            "modulePath": "_320PxFooterI.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_320PxFooterI.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "73_C_lZn92bFi",
+          "name": "_320PxAnnouncementBarIi",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_320PxAnnouncementBarIi.tsx",
+          "importSpec": {
+            "modulePath": "_320PxAnnouncementBarIi.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_320PxAnnouncementBarIi.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "st0_xSRO6Cbj6",
+          "name": "_320PxAnncoumentFinal",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_320PxAnncoumentFinal.tsx",
+          "importSpec": {
+            "modulePath": "_320PxAnncoumentFinal.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_320PxAnncoumentFinal.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "4Xmgn6n080BCX",
+          "name": "_1440VarietyRedo",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/Plasmic_1440VarietyRedo.tsx",
+          "importSpec": {
+            "modulePath": "_1440VarietyRedo.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/Plasmic_1440VarietyRedo.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "2a3wwF0VG7yif",
+          "name": "SafeLeads",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicSafeLeads.tsx",
+          "importSpec": {
+            "modulePath": "SafeLeads.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicSafeLeads.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "8-BommJzSoLw",
+          "name": "Blog1",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicBlog1.tsx",
           "importSpec": {
             "modulePath": "../pages/blog-1.tsx"
           },
-          "cssFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicDisposableCollection4.module.css",
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicBlog1.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "uKpH2-69KTL",
+          "name": "DisposableCollection32",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicDisposableCollection32.tsx",
+          "importSpec": {
+            "modulePath": "../pages/disposable.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicDisposableCollection32.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "mplQfWeXC40",
+          "name": "Home",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicHome.tsx",
+          "importSpec": {
+            "modulePath": "../pages/index.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicHome.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "L9wPhe2_ywN",
+          "name": "DisposableCollection34",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicDisposableCollection34.tsx",
+          "importSpec": {
+            "modulePath": "../pages/disposable-rm.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicDisposableCollection34.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "UYdM1YtE_Yr",
+          "name": "Blog12",
+          "type": "managed",
+          "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+          "renderModuleFilePath": "plasmic/masteri_sparq/PlasmicBlog12.tsx",
+          "importSpec": {
+            "modulePath": "../pages/blog.tsx"
+          },
+          "cssFilePath": "plasmic/masteri_sparq/PlasmicBlog12.module.css",
           "scheme": "blackbox",
           "componentType": "page"
         }
       ],
       "icons": [
         {
-          "id": "eSF-0RqcV4G6qhZ",
+          "id": "MtQqqjfg8Wq_G",
           "name": "SearchsvgIcon",
-          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Searchsvg.tsx"
+          "moduleFilePath": "plasmic/masteri_sparq/icons/PlasmicIcon__Searchsvg.tsx"
         },
         {
-          "id": "bhoFISTNxHeSPJp",
+          "id": "Yja-nQT_PFt45",
           "name": "ChecksvgIcon",
-          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Checksvg.tsx"
+          "moduleFilePath": "plasmic/masteri_sparq/icons/PlasmicIcon__Checksvg.tsx"
         },
         {
-          "id": "zG2B6AAPlaJrheO",
+          "id": "n8PV4AfpehUQb",
           "name": "IconIcon",
-          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Icon.tsx"
+          "moduleFilePath": "plasmic/masteri_sparq/icons/PlasmicIcon__Icon.tsx"
         },
         {
-          "id": "MtAp5_rjAWK6aiv",
+          "id": "dKOnOogHBbFBR",
           "name": "FrameIcon",
-          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame.tsx"
+          "moduleFilePath": "plasmic/masteri_sparq/icons/PlasmicIcon__Frame.tsx"
         },
         {
-          "id": "AnzqGBkdi-adcC2",
+          "id": "TMewibysxbmq5",
           "name": "Frame2Icon",
-          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame2.tsx"
+          "moduleFilePath": "plasmic/masteri_sparq/icons/PlasmicIcon__Frame2.tsx"
         },
         {
-          "id": "bsr3RomwB43HQb4",
+          "id": "3vPoGyuPi5l3b",
           "name": "Frame3Icon",
-          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame3.tsx"
+          "moduleFilePath": "plasmic/masteri_sparq/icons/PlasmicIcon__Frame3.tsx"
         },
         {
-          "id": "5E9faZ0BcCIW1Di",
+          "id": "2dATcX4buyCX-",
           "name": "Frame4Icon",
-          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame4.tsx"
+          "moduleFilePath": "plasmic/masteri_sparq/icons/PlasmicIcon__Frame4.tsx"
         },
         {
-          "id": "qSwAyJdMxzptvfq",
+          "id": "K98x-NTfpcyN5",
           "name": "Frame5Icon",
-          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame5.tsx"
+          "moduleFilePath": "plasmic/masteri_sparq/icons/PlasmicIcon__Frame5.tsx"
         },
         {
-          "id": "jhqdEBFDb1MhCwS",
+          "id": "2mEDeeeCiYqE2",
           "name": "Frame6Icon",
-          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame6.tsx"
+          "moduleFilePath": "plasmic/masteri_sparq/icons/PlasmicIcon__Frame6.tsx"
         },
         {
-          "id": "rGR2wngf9X4yt-J",
+          "id": "6LBkQ0fgEHgGo",
           "name": "Frame7Icon",
-          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame7.tsx"
+          "moduleFilePath": "plasmic/masteri_sparq/icons/PlasmicIcon__Frame7.tsx"
         },
         {
-          "id": "AU93K6bMzI17lDw",
+          "id": "trCZhmw33TFLM",
           "name": "Frame8Icon",
-          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame8.tsx"
+          "moduleFilePath": "plasmic/masteri_sparq/icons/PlasmicIcon__Frame8.tsx"
         },
         {
-          "id": "T3HtrZQTe7r2OEj",
+          "id": "IZBUMJ408GdtG",
           "name": "Frame9Icon",
-          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame9.tsx"
+          "moduleFilePath": "plasmic/masteri_sparq/icons/PlasmicIcon__Frame9.tsx"
         },
         {
-          "id": "hkH3IVvRke3cXKQ",
+          "id": "RTBCnV_lV-0Kh",
           "name": "Frame10Icon",
-          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame10.tsx"
+          "moduleFilePath": "plasmic/masteri_sparq/icons/PlasmicIcon__Frame10.tsx"
         },
         {
-          "id": "x5aqxbdxfNtHMCH",
+          "id": "2AbZ0rgPiosaU",
           "name": "Frame11Icon",
-          "moduleFilePath": "plasmic/copy_of_blog_lifehacksplus_com/icons/PlasmicIcon__Frame11.tsx"
+          "moduleFilePath": "plasmic/masteri_sparq/icons/PlasmicIcon__Frame11.tsx"
         }
       ],
       "images": [
         {
-          "id": "5nQKNyKQk3SvBoz",
+          "id": "Z-FP8Lo2LSSwk",
           "name": "Sparq_Logo_White.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sparqLogoWhitepng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/sparqLogoWhitepng.png"
         },
         {
-          "id": "7DrbbY_0PzHiId1",
+          "id": "xuMA-CEwM8K14",
           "name": "https___app.unbounce.com_publish_assets_4e7205ac-8938-11ed-b5b0-0242a3c829a5_3u3deu-sparq-black-logo_108c08c000000000000028.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/httpsAppunbouncecomPublishAssets4E7205Ac893811EdB5B00242A3C829A53U3DeuSparqBlackLogo108C08C000000000000028Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/httpsAppunbouncecomPublishAssets4E7205Ac893811EdB5B00242A3C829A53U3DeuSparqBlackLogo108C08C000000000000028Png.png"
         },
         {
-          "id": "Pj-0M3Ap7UkRa8w",
+          "id": "9GX9-3hl84alR",
           "name": "LADYBAGUETTE2020IMG_3156-Edit 1.svg",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/ladybaguette2020Img3156Edit1Svg.bin"
+          "filePath": "../public/plasmic/masteri_sparq/images/ladybaguette2020Img3156Edit1Svg.bin"
         },
         {
-          "id": "zTDsKdonK5pBIk4",
+          "id": "59RzcN0eVeJT1",
           "name": "LADYBAGUETTE2020IMG_3156-Edit.jpg",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/ladybaguette2020Img3156Editjpg.jpeg"
+          "filePath": "../public/plasmic/masteri_sparq/images/ladybaguette2020Img3156Editjpg.jpeg"
         },
         {
-          "id": "snfi6XWks2ARM0H",
+          "id": "bvku74e4NlR6t",
           "name": "e-mail_1f4e7.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/eMail1F4E7Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/eMail1F4E7Png.png"
         },
         {
-          "id": "pf5K0Wsr_pbB994",
+          "id": "RFv71l1aKT6j6",
           "name": "sparq-logo_125x.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sparqLogo125Xpng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/sparqLogo125Xpng.png"
         },
         {
-          "id": "UidArNAnm7-gJCH",
+          "id": "Bp2KyeZy0p3oY",
           "name": "footer-logo.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/footerLogopng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/footerLogopng.png"
         },
         {
-          "id": "GJg6f9eSCiXDWAl",
+          "id": "sFyGTDpmpXy72",
           "name": "smoking_icon_ac8544ef-2a78-4a92-9740-ba3c7312e5c5_480x480.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/smokingIconAc8544Ef2A784A929740Ba3C7312E5C5480X480Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/smokingIconAc8544Ef2A784A929740Ba3C7312E5C5480X480Png.png"
         },
         {
-          "id": "FXnKelweRBMyOG3",
+          "id": "wgxAToLfkvk4b",
           "name": "beaker_icon_09efe31c-b2e4-4c7f-8a8f-f564e86fe6e1_480x480.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/beakerIcon09Efe31CB2E44C7F8A8FF564E86Fe6E1480X480Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/beakerIcon09Efe31CB2E44C7F8A8FF564E86Fe6E1480X480Png.png"
         },
         {
-          "id": "O-MR59gTLdnhku8",
+          "id": "UYlO_DWPWiKAI",
           "name": "pills_icon_73726148-c05b-4727-9378-2519623fd4a0_480x480.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/pillsIcon73726148C05B472793782519623Fd4A0480X480Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/pillsIcon73726148C05B472793782519623Fd4A0480X480Png.png"
         },
         {
-          "id": "b2OHWfNWAHC1YL4",
+          "id": "CHZEicfYLmPEV",
           "name": "recycle_icon_1607fa06-3a4b-4d0b-a0a6-1cd803b18c85_480x480.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/recycleIcon1607Fa063A4B4D0BA0A61Cd803B18C85480X480Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/recycleIcon1607Fa063A4B4D0BA0A61Cd803B18C85480X480Png.png"
         },
         {
-          "id": "DJKvc-H-D5vaqNh",
+          "id": "n7ZeMD9uOa-_0",
           "name": "product-sec-ban-1.jpg",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/productSecBan1Jpg.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/productSecBan1Jpg.png"
         },
         {
-          "id": "UNEhvmNrMMrfxM8",
+          "id": "442iz0FYek7Yp",
           "name": "Safety-Practices_480x480.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/safetyPractices480X480Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/safetyPractices480X480Png.png"
         },
         {
-          "id": "kcU42MkZH93F2kW",
+          "id": "BDzVx5CSJXHxV",
           "name": "Extensive_Scientific_Research_480x480.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/extensiveScientificResearch480X480Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/extensiveScientificResearch480X480Png.png"
         },
         {
-          "id": "rB0mTzce6WmkICx",
+          "id": "FtaUZkz5Zahl1",
           "name": "Environmentally-Responsible_480x480.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/environmentallyResponsible480X480Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/environmentallyResponsible480X480Png.png"
         },
         {
-          "id": "ErtFvM1Wi3itmbO",
+          "id": "K-kUJHNwld9g-",
           "name": "Giving-Back_480x480.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/givingBack480X480Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/givingBack480X480Png.png"
         },
         {
-          "id": "YS42xfqhbeu4pQi",
+          "id": "Oyv_affJVWHIX",
           "name": "product-fuel_250x250@2x.jpg",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/productFuel250X2502Xjpg.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/productFuel250X2502Xjpg.png"
         },
         {
-          "id": "uPr8ET4296lA7M-",
+          "id": "8h7WMojlxWhQx",
           "name": "product-pure_cca9dd58-d8da-49ac-b531-f6abd24468da_250x250@2x.jpg",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/productPureCca9Dd58D8Da49AcB531F6Abd24468Da250X2502Xjpg.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/productPureCca9Dd58D8Da49AcB531F6Abd24468Da250X2502Xjpg.png"
         },
         {
-          "id": "-XzMawBMOtO6Ru9",
+          "id": "sBJMv3JBIKSTa",
           "name": "product-melt_e5ee4b8c-b394-4dfa-969d-133320737857_250x250@2x.jpg",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/productMeltE5Ee4B8CB3944Dfa969D133320737857250X2502Xjpg.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/productMeltE5Ee4B8CB3944Dfa969D133320737857250X2502Xjpg.png"
         },
         {
-          "id": "aKcew3gnG3g660b",
+          "id": "xkyavskX54lc-",
           "name": "product-variety_1c2e7bd9-ac9c-4989-bfad-811526dad7e0_250x250@2x.jpg",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/productVariety1C2E7Bd9Ac9C4989Bfad811526Dad7E0250X2502Xjpg.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/productVariety1C2E7Bd9Ac9C4989Bfad811526Dad7E0250X2502Xjpg.png"
         },
         {
-          "id": "MLiE8Le8a7OkeLg",
+          "id": "uz0Y-syC3yI7l",
           "name": "Packaging6Upright_09_FINAL-min_250x250@2x.jpg",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/packaging6Upright09FinalMin250X2502Xjpg.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/packaging6Upright09FinalMin250X2502Xjpg.png"
         },
         {
-          "id": "NOohhX_YetN0qVK",
+          "id": "Qq_WqHlcIuiJ8",
           "name": "shopify-secure-badge-light-shadow.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/shopifySecureBadgeLightShadowpng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/shopifySecureBadgeLightShadowpng.png"
         },
         {
-          "id": "5BXBHaDL3HDDXqa",
+          "id": "8iMNXwYOmQP7t",
           "name": "label 5",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/label5.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/label5.png"
         },
         {
-          "id": "kXaOljcNFCKr5Dy",
+          "id": "1T8RM2-D4OJLV",
           "name": "label 2",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/label2.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/label2.png"
         },
         {
-          "id": "zteVcY8zqPCRkOC",
+          "id": "cQ5nTs6omW3R9",
           "name": "label",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/label.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/label.png"
         },
         {
-          "id": "UA3OxMTMWSi3xIY",
+          "id": "hnt7Qo4nJMLeU",
           "name": "label 4",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/label4.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/label4.png"
         },
         {
-          "id": "tTGzEQwFl_QeMBS",
+          "id": "XsqbJgGuv2Ev5",
           "name": "pills_icon_73726148-c05b-4727-9378-2519623fd4a0_480x480.png 2",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/pillsIcon73726148C05B472793782519623Fd4A0480X480Png2.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/pillsIcon73726148C05B472793782519623Fd4A0480X480Png2.png"
         },
         {
-          "id": "hsKpXsoWh7e7P0Q",
+          "id": "j4F9z4bEIv_zS",
           "name": "div",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/div.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/div.png"
         },
         {
-          "id": "m_CinHliilp3TCg",
+          "id": "JujXnnwL2uJei",
           "name": "5a18637b3a18271ae9cd636b_1_77c5b246-4f6c-4a1d-b6c8-5c4eb7fb4a85.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_5A18637B3A18271Ae9Cd636B177C5B2464F6C4A1DB6C85C4Eb7Fb4A85Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/_5A18637B3A18271Ae9Cd636B177C5B2464F6C4A1DB6C85C4Eb7Fb4A85Png.png"
         },
         {
-          "id": "fxK6i8j4QJK4riD",
+          "id": "2XJ48hmOOojco",
           "name": "800px-Indiegogo_logo_87e824db-34f7-4415-9219-ab56dca36549.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_800PxIndiegogoLogo87E824Db34F744159219Ab56Dca36549Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/_800PxIndiegogoLogo87E824Db34F744159219Ab56Dca36549Png.png"
         },
         {
-          "id": "4HvP2YQIYNpTwo8",
+          "id": "Uci-Zf1OZflL0",
           "name": "1200px-Scientific_American_logo.svg_9440dc46-eee2-4228-b6a5-e91e5b0c8581.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_1200PxScientificAmericanLogosvg9440Dc46Eee24228B6A5E91E5B0C8581Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/_1200PxScientificAmericanLogosvg9440Dc46Eee24228B6A5E91E5B0C8581Png.png"
         },
         {
-          "id": "ApCMNyZFB1tGoRE",
+          "id": "1QguxMQjilMsO",
           "name": "asfeaturedin4_9bda2aea-3ea9-4d3c-bd4f-7d2ad76ae608.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/asfeaturedin49Bda2Aea3Ea94D3CBd4F7D2Ad76Ae608Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/asfeaturedin49Bda2Aea3Ea94D3CBd4F7D2Ad76Ae608Png.png"
         },
         {
-          "id": "Tt5ml0unUoMFQ63",
+          "id": "QJ8wFU2s-ojTb",
           "name": "Entrepreneur_logo_484ccefe-4c85-4084-bc8c-12af7a590ec0.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/entrepreneurLogo484Ccefe4C854084Bc8C12Af7A590Ec0Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/entrepreneurLogo484Ccefe4C854084Bc8C12Af7A590Ec0Png.png"
         },
         {
-          "id": "lFA8VBO5F_ZUc51",
+          "id": "thGnVqsJyYKb0",
           "name": "confidencee_fdabb2f0-6360-4ed7-8f96-dc94bfa29f15.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/confidenceeFdabb2F063604Ed78F96Dc94Bfa29F15Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/confidenceeFdabb2F063604Ed78F96Dc94Bfa29F15Png.png"
         },
         {
-          "id": "EuWzPYPfKS_1uc1",
+          "id": "pWOf1NVbq9jcp",
           "name": "promissory_700cba5a-b826-4b5c-8106-987450146e3b.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/promissory700Cba5AB8264B5C8106987450146E3Bpng.jpeg"
+          "filePath": "../public/plasmic/masteri_sparq/images/promissory700Cba5AB8264B5C8106987450146E3Bpng.jpeg"
         },
         {
-          "id": "-8YsE2RIguCgoHh",
+          "id": "Xxd9PyR5i5Q0g",
           "name": "promissorylayer.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/promissorylayerpng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/promissorylayerpng.png"
         },
         {
-          "id": "rm_bUs3XdhKfFAY",
+          "id": "eku2aLdbw0yCV",
           "name": "Group_8.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/group8Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/group8Png.png"
         },
         {
-          "id": "e0pA9GhqFj2K1DA",
+          "id": "ywYLE6fv151na",
           "name": "moneybackleft.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/moneybackleftpng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/moneybackleftpng.png"
         },
         {
-          "id": "7Ug1xSe9FqgNDxe",
+          "id": "0EC0FolRnTA0q",
           "name": "moneybackright.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/moneybackrightpng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/moneybackrightpng.png"
         },
         {
-          "id": "GxQiUUVShJ8RxL5",
+          "id": "64aA03gF9b6uu",
           "name": "Sparq_Logo_Final-03_1_-removebg-preview_3b7bc87c-264b-43d3-8992-4155c29d48c3.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sparqLogoFinal031RemovebgPreview3B7Bc87C264B43D389924155C29D48C3Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/sparqLogoFinal031RemovebgPreview3B7Bc87C264B43D389924155C29D48C3Png.png"
         },
         {
-          "id": "a-2wDeaQGCQAdB0",
+          "id": "RMgnFyZBQCMWt",
           "name": "Sparq_box_animation_loop_shorter_version.gif",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sparqBoxAnimationLoopShorterVersiongif.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/sparqBoxAnimationLoopShorterVersiongif.png"
         },
         {
-          "id": "0ZsWiI8O37P7ylw",
+          "id": "srlANDrAncSjF",
           "name": "leftarr.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/leftarrpng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/leftarrpng.png"
         },
         {
-          "id": "iz09ztpKmyYTBmL",
+          "id": "aEXN5DJsAU1f_",
           "name": "rightarr.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/rightarrpng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/rightarrpng.png"
         },
         {
-          "id": "Mlm7-vpYjltOEQn",
+          "id": "gExgbkOOnU-ZU",
           "name": "paymentlogo.png 2",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/paymentlogopng2.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/paymentlogopng2.png"
         },
         {
-          "id": "EX-_GyzpaktUzUc",
+          "id": "n6PALSTYuR7WO",
           "name": "Sparq_Logo_Final-03_1_1.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sparqLogoFinal0311Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/sparqLogoFinal0311Png.png"
         },
         {
-          "id": "dILUTTOuKomfMLD",
+          "id": "acrDf9vYU0kZu",
           "name": "li",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/li.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/li.png"
         },
         {
-          "id": "W_Qv0uOFXQdq7uO",
+          "id": "LUUaPmed6JWRR",
           "name": "paymentlogo.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/paymentlogopng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/paymentlogopng.png"
         },
         {
-          "id": "tVBNbo1SeeDy3L0",
+          "id": "g8HWhy46NGeVF",
           "name": "star.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/starpng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/starpng.png"
         },
         {
-          "id": "ZymHjIsoE4b1tqG",
+          "id": "wBtD8PPNYG9LQ",
           "name": "bannerrev_e286f026-53c5-463d-95e1-7d983a6a0996.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/bannerrevE286F02653C5463D95E17D983A6A0996Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/bannerrevE286F02653C5463D95E17D983A6A0996Png.png"
         },
         {
-          "id": "FS6VPo6JdnTZrNr",
+          "id": "1kwbGPR7fP1Ki",
           "name": "My_project.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/myProjectpng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/myProjectpng.png"
         },
         {
-          "id": "r3wTa7x-GvjNftL",
+          "id": "JdtzI4ZdzOPt-",
           "name": "My_project-2.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/myProject2Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/myProject2Png.png"
         },
         {
-          "id": "jIHn9ZvUtYvM3gJ",
+          "id": "qEisJamYCjH1H",
           "name": "My_project-5.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/myProject5Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/myProject5Png.png"
         },
         {
-          "id": "SQSnC35y0oyK65H",
+          "id": "S8DTJ89q680PU",
           "name": "My_project-3.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/myProject3Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/myProject3Png.png"
         },
         {
-          "id": "4WCOHH89SVnF_UJ",
+          "id": "89NkhlUGPjTFB",
           "name": "My_project-7.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/myProject7Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/myProject7Png.png"
         },
         {
-          "id": "jIFNUPLWRSR2Pl-",
+          "id": "r-jxogjJrEHXO",
           "name": "My_project-6.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/myProject6Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/myProject6Png.png"
         },
         {
-          "id": "N3oej1DdQXd4TWD",
+          "id": "MY54q4ipcHcsJ",
           "name": "My_project-4.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/myProject4Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/myProject4Png.png"
         },
         {
-          "id": "07cURNxA0rGgx0B",
+          "id": "iIrp4sdGg7jzv",
           "name": "promissoryitem1_cb038f04-1a2b-4c5b-af99-95014e9df68f.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/promissoryitem1Cb038F041A2B4C5BAf9995014E9Df68Fpng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/promissoryitem1Cb038F041A2B4C5BAf9995014E9Df68Fpng.png"
         },
         {
-          "id": "tgCTASbpWcHOtrF",
+          "id": "KYZxXQYlGPtjA",
           "name": "promissoryitem2_d1cae334-b4ca-4e4f-8fba-fc3f796c4042.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/promissoryitem2D1Cae334B4Ca4E4F8FbaFc3F796C4042Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/promissoryitem2D1Cae334B4Ca4E4F8FbaFc3F796C4042Png.png"
         },
         {
-          "id": "vNSTCjtMm27qeeF",
+          "id": "SkP_wYF5Ab0l4",
           "name": "promissoryitem3_674784dc-9a84-4f5a-8b80-175ce3e3f7c3.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/promissoryitem3674784Dc9A844F5A8B80175Ce3E3F7C3Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/promissoryitem3674784Dc9A844F5A8B80175Ce3E3F7C3Png.png"
         },
         {
-          "id": "U-rmJFwDF-RqaNk",
+          "id": "pI2shYrWBmgfg",
           "name": "sidereview1.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sidereview1Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/sidereview1Png.png"
         },
         {
-          "id": "RGrOAzFjsMtLj0f",
+          "id": "VlrRPoVxtsRpD",
           "name": "sidereview2.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sidereview2Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/sidereview2Png.png"
         },
         {
-          "id": "uSNmVSo9CLS8B4t",
+          "id": "nWIwGOiZYOG2r",
           "name": "sidereview3.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sidereview3Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/sidereview3Png.png"
         },
         {
-          "id": "Rpdpfbhozoi1aK1",
+          "id": "BzhlDNcF1FwTi",
           "name": "3.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_3Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/_3Png.png"
         },
         {
-          "id": "HyzzMuIgFnaNZEO",
+          "id": "QViX3esgJ7Cno",
           "name": "6.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_6Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/_6Png.png"
         },
         {
-          "id": "w7f8480EU-gVtFj",
+          "id": "OUeXX3MLQrI3a",
           "name": "getyourvitamin1.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/getyourvitamin1Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/getyourvitamin1Png.png"
         },
         {
-          "id": "__jwv9j6H0mVsZc",
+          "id": "RMRx-X2dXDS7Q",
           "name": "verify.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/verifypng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/verifypng.png"
         },
         {
-          "id": "C4Qq8i8WNBZV5DQ",
+          "id": "AL0F6I0V728qI",
           "name": "paymenticons.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/paymenticonspng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/paymenticonspng.png"
         },
         {
-          "id": "j_Kcd4r3TBO8Frt",
+          "id": "XKqsM3XYBhSWk",
           "name": "hand.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/handpng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/handpng.png"
         },
         {
-          "id": "9jBM3oR5z4T1zbz",
+          "id": "T6AXv5IDYIsiJ",
           "name": "freeship.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/freeshippng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/freeshippng.png"
         },
         {
-          "id": "Rvlu8Ci6KPrT5bU",
+          "id": "IGmDSJCFQIsiW",
           "name": "hand.svg",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/handsvg.bin"
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg.bin"
         },
         {
-          "id": "vTqZl5PHQc19L3_",
+          "id": "z5xHOOW-povet",
           "name": "hand.svg 2",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/handsvg2.bin"
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg2.bin"
         },
         {
-          "id": "9CcKB6FOWEw6bw7",
+          "id": "lTOCuQHdLmIRv",
           "name": "hand.svg 3",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/handsvg3.bin"
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg3.bin"
         },
         {
-          "id": "3CHLs4Htk8OogP4",
+          "id": "DfnrMOV7OGyIE",
           "name": "hand.svg 4",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/handsvg4.bin"
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg4.bin"
         },
         {
-          "id": "rysFnGLhXVVsSW7",
+          "id": "0ZkS9lcnacjdU",
           "name": "logo.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/logopng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/logopng.png"
         },
         {
-          "id": "s1953A-9iHux4gD",
+          "id": "oj082FmAwgay_",
           "name": "midbanner.jpg",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/midbannerjpg.jpeg"
+          "filePath": "../public/plasmic/masteri_sparq/images/midbannerjpg.jpeg"
         },
         {
-          "id": "WW-2xVJxDAkFF2K",
+          "id": "QakNC0SQkK80V",
           "name": "review.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/reviewpng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/reviewpng.png"
         },
         {
-          "id": "2oHaD1NUgydSxH8",
+          "id": "ySgIE2vled8Bi",
           "name": "fingericon.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/fingericonpng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/fingericonpng.png"
         },
         {
-          "id": "uYJDybGT90xTr_6",
+          "id": "UsWkXzYWeNY0d",
           "name": "star.png 2",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/starpng2.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/starpng2.png"
         },
         {
-          "id": "_iIcuDyYyyXHPsY",
+          "id": "f1uBbPdBvblT5",
           "name": "nw-brandlogo.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/nwBrandlogopng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/nwBrandlogopng.png"
         },
         {
-          "id": "C1zs_Y05KL3oDUr",
+          "id": "Dhw7XBdKTuk2P",
           "name": "li 2",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/li2.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/li2.png"
         },
         {
-          "id": "6S-5sWMStte7zgp",
+          "id": "YwtuUSgixVyWq",
           "name": "sidereview1.png 2",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sidereview1Png2.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/sidereview1Png2.png"
         },
         {
-          "id": "ESUs1JOq6jev3Ni",
+          "id": "L8DNzjDsFxmns",
           "name": "sidereview2.png 2",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sidereview2Png2.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/sidereview2Png2.png"
         },
         {
-          "id": "RtHKWohh57Uem2T",
+          "id": "JPF8CD47rq5r6",
           "name": "div 3",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/div3.jpeg"
+          "filePath": "../public/plasmic/masteri_sparq/images/div3.jpeg"
         },
         {
-          "id": "LRYWM4wOoLutB1f",
+          "id": "qTqvCgAWXiMB0",
           "name": "sidereview3.png 2",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/sidereview3Png2.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/sidereview3Png2.png"
         },
         {
-          "id": "E06g9-qg4O_eDj7",
+          "id": "MHkLAxzNlmZYq",
           "name": "prodimage.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/prodimagepng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/prodimagepng.png"
         },
         {
-          "id": "hyDx3SL3JgQ_rYq",
+          "id": "SdbA82NjrlDO2",
           "name": "tick.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/tickpng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/tickpng.png"
         },
         {
-          "id": "e2GMjZd_x9UeixC",
+          "id": "vRmzT2lPqP3EJ",
           "name": "cross.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/crosspng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/crosspng.png"
         },
         {
-          "id": "hZjFp8lO0Bl6wef",
+          "id": "eW3DjJD4i9uL8",
           "name": "paymentcard.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/paymentcardpng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/paymentcardpng.png"
         },
         {
-          "id": "s6yjmUEfA29EzYy",
-          "name": "div 2",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/div2.png"
+          "id": "9sHlAtRGNMcCE",
+          "name": "div 4",
+          "filePath": "../public/plasmic/masteri_sparq/images/div4.png"
         },
         {
-          "id": "I_8DEIp-OmVL4zc",
+          "id": "PyCXUQ_uyNnd5",
           "name": "Screenshot 2023-02-24 at 4.34.42 PM.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/screenshot20230224At43442PMpng.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/screenshot20230224At43442PMpng.png"
         },
         {
-          "id": "ac9f167gPGayqt8",
+          "id": "jLcqlag6DcpBt",
           "name": "1b8bd693-image1_1000000000000000000028.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_1B8Bd693Image11000000000000000000028Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/_1B8Bd693Image11000000000000000000028Png.png"
         },
         {
-          "id": "koNTYzMbV4zuQMs",
+          "id": "dyQlyJ6r87Egj",
           "name": "4b6e6ed1-device.gif",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_4B6E6Ed1Devicegif.gif"
+          "filePath": "../public/plasmic/masteri_sparq/images/_4B6E6Ed1Devicegif.gif"
         },
         {
-          "id": "v636BRJwo8nFVhd",
+          "id": "v-tDs0cq1oaOc",
           "name": "6bb5e2f0-image3_1000000000000000000028.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_6Bb5E2F0Image31000000000000000000028Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/_6Bb5E2F0Image31000000000000000000028Png.png"
         },
         {
-          "id": "SIjct2gl9FSbxkT",
+          "id": "vUWBEBfZmZCWN",
           "name": "12a7a7bb-testing-smaller-image_10yy0fa000000000000028 (1).png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_12A7A7BbTestingSmallerImage10Yy0Fa0000000000000281Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/_12A7A7BbTestingSmallerImage10Yy0Fa0000000000000281Png.png"
         },
         {
-          "id": "zRYo7NqPdE0WDQ9",
+          "id": "5hGZrLItSTA--",
           "name": "7e469161-end_1000000000000000000028.png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_7E469161End1000000000000000000028Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/_7E469161End1000000000000000000028Png.png"
         },
         {
-          "id": "u_e29WCJiFxBT86",
+          "id": "QuN4tbHhS0lYH",
           "name": "Divider.svg",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/dividersvg.bin"
+          "filePath": "../public/plasmic/masteri_sparq/images/dividersvg.bin"
         },
         {
-          "id": "EkeNREfjHlbtfm-",
+          "id": "6GepW69S59e2i",
           "name": "9b498fb8-rechargable-gif-1 (1).gif",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_9B498Fb8RechargableGif11Gif.gif"
+          "filePath": "../public/plasmic/masteri_sparq/images/_9B498Fb8RechargableGif11Gif.gif"
         },
         {
-          "id": "6SRZy5LTqlbEoh8",
+          "id": "iI8qWzH9Kp588",
           "name": "fbfd287e-rechargable-gif-2 (1).gif",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/fbfd287ERechargableGif21Gif.gif"
+          "filePath": "../public/plasmic/masteri_sparq/images/fbfd287ERechargableGif21Gif.gif"
         },
         {
-          "id": "Su0n_RL-UrusSXS",
+          "id": "g8fuMVnjFHoJI",
           "name": "7048e521-hit-1_1000000000000000000028 (1).png",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/_7048E521Hit110000000000000000000281Png.png"
+          "filePath": "../public/plasmic/masteri_sparq/images/_7048E521Hit110000000000000000000281Png.png"
         },
         {
-          "id": "hINidC0EeI_9Hd5",
+          "id": "HDQyuc2-PZXjc",
           "name": "Silver Device - Outro.gif",
-          "filePath": "../public/plasmic/copy_of_blog_lifehacksplus_com/images/silverDeviceOutrogif.gif"
+          "filePath": "../public/plasmic/masteri_sparq/images/silverDeviceOutrogif.gif"
+        },
+        {
+          "id": "pw_1PmXQDgMTl",
+          "name": "LADYBAGUETTE2020IMG_3156-Edit_2.jpg",
+          "filePath": "../public/plasmic/masteri_sparq/images/ladybaguette2020Img3156Edit2Jpg.jpeg"
+        },
+        {
+          "id": "mD1vlJHUdxgAP",
+          "name": "hand.svg 5",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg5.bin"
+        },
+        {
+          "id": "1lC7GdxrpjvAs",
+          "name": "hand.svg 6",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg6.bin"
+        },
+        {
+          "id": "m6KMYy_zFBpGR",
+          "name": "hand.svg 7",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg7.bin"
+        },
+        {
+          "id": "NmwW181XPhMSr",
+          "name": "hand.svg 8",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg8.bin"
+        },
+        {
+          "id": "aTDkuWAS1pB67",
+          "name": "hand.svg 9",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg9.bin"
+        },
+        {
+          "id": "yXo7sGXPtGCkE",
+          "name": "hand.svg 10",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg10.bin"
+        },
+        {
+          "id": "7UEvB6LG3hfaW",
+          "name": "hand.svg 11",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg11.bin"
+        },
+        {
+          "id": "bqgNZmk8xSIDL",
+          "name": "hand.svg 12",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg12.bin"
+        },
+        {
+          "id": "bUyn5jILXQGH8",
+          "name": "hand.svg 13",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg13.bin"
+        },
+        {
+          "id": "VEoSTxB-mOoCI",
+          "name": "hand.svg 14",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg14.bin"
+        },
+        {
+          "id": "IEzlGtQpWOHLq",
+          "name": "hand.svg 15",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg15.bin"
+        },
+        {
+          "id": "ezDhG9iWj5tqP",
+          "name": "hand.svg 16",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg16.bin"
+        },
+        {
+          "id": "dbSeqL0geTzBp",
+          "name": "hand.svg 17",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg17.bin"
+        },
+        {
+          "id": "7RQwQN-oXB_Iw",
+          "name": "hand.svg 18",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg18.bin"
+        },
+        {
+          "id": "aTpYld74Te8M4",
+          "name": "hand.svg 19",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg19.bin"
+        },
+        {
+          "id": "RSeqP_UYLiV1q",
+          "name": "hand.svg 20",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg20.bin"
+        },
+        {
+          "id": "Xc6ghH7QSqCwY",
+          "name": "hand.svg 21",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg21.bin"
+        },
+        {
+          "id": "qgHUWeutW2GOW",
+          "name": "hand.svg 22",
+          "filePath": "../public/plasmic/masteri_sparq/images/handsvg22.bin"
+        },
+        {
+          "id": "BfOxwbZKe6fvR",
+          "name": "disp gif.gif",
+          "filePath": "../public/plasmic/masteri_sparq/images/dispGifgif.gif"
+        },
+        {
+          "id": "_Wn1A6gU6I3Fm",
+          "name": "disp gif I.gif",
+          "filePath": "../public/plasmic/masteri_sparq/images/dispGifIgif.gif"
+        },
+        {
+          "id": "As9OhsiRqjUOl",
+          "name": "Copy of disp gif II.gif",
+          "filePath": "../public/plasmic/masteri_sparq/images/copyOfDispGifIIgif.gif"
         }
       ],
       "indirect": false,
       "globalContextsFilePath": "",
       "codeComponents": [
         {
-          "id": "nIfPykcleZzxC",
+          "id": "9_BwGMV5s1I",
           "name": "PlasmicHead",
           "componentImportPath": "@plasmicapp/react-web"
         },
         {
-          "id": "TGSOzzQ9M-qxt",
+          "id": "iYszC2F5sti-",
           "name": "Fetcher",
           "componentImportPath": "@plasmicapp/react-web/lib/data-sources"
         }
@@ -832,10 +1605,10 @@
   "globalVariants": {
     "variantGroups": [
       {
-        "id": "rpLZvrBoo_7pdKh",
+        "id": "SUXxHpH6GpmS",
         "name": "Screen",
-        "projectId": "nfSxZjVucxtfieS23UFsqy",
-        "contextFilePath": "plasmic/copy_of_blog_lifehacksplus_com/PlasmicGlobalVariant__Screen.tsx"
+        "projectId": "wJD4VsJTYW6gZPn3AUEzqs",
+        "contextFilePath": "plasmic/masteri_sparq/PlasmicGlobalVariant__Screen.tsx"
       }
     ]
   },
@@ -843,6 +1616,6 @@
   "nextjsConfig": {
     "pagesDir": "../pages"
   },
-  "cliVersion": "0.1.216",
-  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.216/dist/plasmic.schema.json"
+  "cliVersion": "0.1.226",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.226/dist/plasmic.schema.json"
 }

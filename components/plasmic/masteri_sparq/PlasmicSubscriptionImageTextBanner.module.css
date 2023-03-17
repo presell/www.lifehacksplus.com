@@ -1,0 +1,37 @@
+.a14 {
+  width: 1200px;
+  height: 320px;
+  display: block;
+  position: relative;
+}
+.productSecBan1Jpg2 {
+  background: url("/plasmic/masteri_sparq/images/productSecBan1Jpg.png") 0px 0px / 1200px 320px no-repeat;
+  width: 1200px;
+  height: 320px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.lookingToSaveEvenMoreCheckOutOurMonthlySparqPlans2 {
+  position: absolute;
+  top: 103px;
+  left: 389px;
+  bottom: 105px;
+  right: 389px;
+  transform: translate(0.06999999999999318px, 0.3119999999999976px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text {
+  display: block;
+  font-size: 27px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 39px;
+  color: rgba(255, 255, 255, 1);
+}
